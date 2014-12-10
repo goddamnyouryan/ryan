@@ -1,0 +1,14 @@
+- name: Juicer
+  url: http://www.juicer.io
+  paragraphs:
+    - <img src='/images/fart.jpg' alt='Juicer' />
+    - This is a paragraph
+    - This is also a paragraph
+    - Gee I sure hope this works you know?
+
+- name: Summerland
+  url: http://www.summerland.is
+  paragraphs:
+    - This is a paragraph
+    - This is also a paragraph
+    - Gee I sure hope this works you know?

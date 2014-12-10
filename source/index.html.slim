@@ -1,3 +1,21 @@
 ---
 title: Ryan MacInnes | Programmer, Web Developer, Designer and all around good dude in Los Angeles, CA
 ---
+
+.intro
+  h1 Ryan MacInnes
+  h2 @goddamnyouryan is a programmer, web developer and designer based in Los Angeles, CA and all over the world.
+
+nav
+  ul
+    li = link_to 'Work', '#work'
+    li = link_to 'Blog', 'http://blog.goddamnyouryan.com'
+    li = link_to 'Contact', '#contact'
+
+ul#work
+  - data.sites.each do |site|
+    li
+      h2 = site.name
+      = link_to "Visit #{site.name} Site", site.url, target: '_blank', class: 'button'
+      - site.paragraphs.each do |paragraph|
+        p == paragraph
