@@ -1,10 +1,22 @@
 - name: Juicer
   url: http://www.juicer.io
   paragraphs:
-    - <img src='/images/fart.jpg' alt='Juicer' />
-    - This is a paragraph
-    - This is also a paragraph
-    - Gee I sure hope this works you know?
+    - <img src='/images/juicer-1.jpg' alt='Juicer Header' />
+    - Juicer is a personal project of mine. It came about not because I am passionate about social media feeds (or social media marketing in general) but rather because I saw a space in the market for it, and I was going to have to basically build it anyways.
+    - Over the course of two years I had three separate clients ask me to put a "social media feed" on to their sites. For those who don't know what that is, it's basically all of their posts from their various business-related social media posts in a single location. Doing this manually would obviously be a huge pain in the ass (you'd have toupdate the website every time you tweet.
+    - When my first client asked me to do this, I immediately googled <strong><em>Social Media Feed</em></strong>.
+    - I found a service called <strong>Tint</strong>. Tint was great, it did exactly what I wanted it to do, you'd enter in your social media account names, copy and paste some code on to your site and <em>voila</em> you had a social media feed on your site. Best of all Tint cost $10 a month.
+    - Tint did all the heavy lifting for you, it connected to the social media sites (which can be a surprising pain in the ass, and each one is different), and automatically pulled in the new posts for you, so once you embedded it you didn't have to do anything after that.
+    - I happily used Tint for several clients sites until I was building the site for <a href='http://www.descendants.tv' target='_blank'>Descendants</a> and they asked me to add a social media feed. I went to go sign them up to Tint when I discovered that Tint had raised their prices from $10 a month to $250 a month (since then they have raised their prices again to $500 a month).
+    - Descendants obviously didn't want to pay $250 a month but they still wanted a social media feed on their site. They asked if I would build a custom one for them. I said I would just build a tint-like service and not charge them for it (on the condition they sign up for the service). I called it <a href='http://www.juicer.io'>Juicer</a>.
+    - It works almost exactly the same way Tint does, you enter your social media account names and copy and paste some code on to your site and Juicer does the rest. But if you ask me, it's better than Tint.
+    - <ul>
+        <li>Cheaper! (there's even a free plan)</li>
+        <li>More Social Media Accounts</li>
+        <li>Prettier! (Juicer is probably the most beautiful thing I've ever designed.</li>
+        <li>Moderation, Filtering, Analytics</li>
+      </ul>
+    - Tint is crazy expensive for what they offer, and I don't think that's okay. There are tons of people out there who would like to have a social media feed on their site but definitely cannot afford $500 a month (hell, you can get a decent apartment in the midwest for that much). Juicer is for them.
 
 - name: Summerland
   url: http://www.summerland.is
