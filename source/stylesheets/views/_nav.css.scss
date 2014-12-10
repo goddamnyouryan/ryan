@@ -1,0 +1,28 @@
+nav {
+  border-bottom: 1px solid $border;
+  border-top: 1px solid $border;
+  margin-bottom: 30vh;
+
+  ul {
+    margin: 2rem 0;
+    text-align: center;
+  }
+
+  li {
+    display: inline-block;
+    margin: 0 35px 0 0;
+
+    &:last-of-type {
+      margin: 0;
+    }
+  }
+
+  a {
+    color: $text;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 0.2rem;
+    text-decoration: none;
+  }
+}
