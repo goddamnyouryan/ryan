@@ -22,4 +22,18 @@ ul#work {
   .button {
     margin: 0;
   }
+
+  p.clear {
+    clear: both;
+  }
+
+  $image-margin: 25px;
+
+  img.u-pull-left {
+    margin: 0 $image-margin $image-margin 0;
+  }
+
+  img.u-pull-right {
+    margin: 0 0 $image-margin $image-margin;
+  }
 }

@@ -9,7 +9,7 @@ title: Ryan MacInnes | Programmer, Web Developer, Designer and all around good d
 nav
   ul
     li = link_to 'Work', '#work'
-    li = link_to 'Blog', 'http://blog.goddamnyouryan.com'
+    li = link_to 'About', '#about'
     li = link_to 'Contact', '#contact'
 
 ul#work
@@ -17,6 +17,9 @@ ul#work
     li.u-full-width
       header.u-cf.u-full-width
         h2.u-pull-left = site.name
-        = link_to "Visit #{site.name} Site", site.url, target: '_blank', class: 'button u-pull-right'
+        = link_to "Visit #{site.name}", site.url, target: '_blank', class: 'button u-pull-right'
       - site.paragraphs.each do |paragraph|
-        p == paragraph
+        - if paragraph.key?('clear')
+          p.clear == paragraph.content
+        - else
+          p == paragraph.content
