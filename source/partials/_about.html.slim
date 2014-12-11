@@ -1,0 +1,11 @@
+#about
+  h2 About Ryan MacInnes
+
+  ul#timeline
+    - data.timeline.each do |event|
+      li
+        h3 = event.year
+        .description
+          h4 = event.title
+          - if event.description.present?
+            h5 = event.description

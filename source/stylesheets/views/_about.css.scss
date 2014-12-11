@@ -1,0 +1,129 @@
+#about {
+
+  h2 {
+    font-size: 1.2rem;
+    border-bottom: 1px solid $border;
+    padding: 2rem 0;
+    margin-bottom: 5rem;
+  }
+}
+
+ul#timeline {
+  list-style: none;
+  position: relative;
+
+  &:before {
+    content: '';
+    width: 1px;
+    background: $text;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+  }
+
+  $side: 100px;
+
+  @mixin timeline-right {
+    &:before {
+      right: 0;
+      left: auto;
+    }
+
+    .description {
+      float: right;
+      text-align: right;
+    }
+
+    h4 {
+      padding: 0 0 0 10px;
+    }
+  }
+
+  li {
+    min-height: $side;
+    position: relative;
+    margin-bottom: 7rem;
+
+    &:before {
+      content: '';
+      height: 1px;
+      background: $text;
+      width: 50%;
+      position: absolute;
+      left: 0;
+      top: 50px;
+    }
+
+    &:nth-child(even) {
+      @include timeline-right;
+    }
+  }
+
+  h3 {
+    background: $text;
+    color: $background;
+    width: $side; height: $side;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 2.5;
+    position: absolute;
+    left: 44%;
+  }
+
+  .description {
+    max-width: 33%;
+  }
+
+  h4 {
+    background: $background;
+    position: relative;
+    z-index: 3;
+    display: inline-block;
+    margin: 42px 0 0 0;
+    padding: 0 10px 0 0;
+  }
+
+  h5 {
+    font-size: 1.5rem;
+    line-height: 1.6;
+  }
+
+  @include media(800px) {
+
+    &:before {
+      left: 0;
+    }
+
+    $side: 50px;
+
+    li {
+      @include timeline-right;
+      @include clearfix;
+      width: 100%;
+      min-height: $side;
+
+      &:before {
+        width: 100%;
+        top: $side / 2;
+      }
+    }
+
+
+    h3 {
+      left: 0;
+      font-size: 1.4rem;
+      width: $side; height: $side;
+      line-height: 3.5;
+      left: -($side / 2);
+    }
+
+    .description {
+      max-width: 75%;
+    }
+
+    h4 {
+      margin: 17px 0 0 0;
+    }
+  }
+}
