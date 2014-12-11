@@ -36,4 +36,13 @@ ul#work {
   img.u-pull-right {
     margin: 0 0 $image-margin $image-margin;
   }
+
+  ul.technology {
+    clear: both;
+    text-align: left;
+
+    a {
+      color: lighten($text, 70%);
+    }
+  }
 }

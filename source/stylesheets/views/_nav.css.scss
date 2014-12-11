@@ -1,12 +1,13 @@
 nav {
+  margin-bottom: 30vh;
+}
+
+nav ul, ul.technology {
+  padding: 2rem 0;
+  margin: 0;
+  text-align: center;
   border-bottom: 1px solid $border;
   border-top: 1px solid $border;
-  margin-bottom: 30vh;
-
-  ul {
-    margin: 2rem 0;
-    text-align: center;
-  }
 
   li {
     display: inline-block;

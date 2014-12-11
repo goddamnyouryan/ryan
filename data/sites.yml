@@ -1,5 +1,14 @@
 - name: Juicer
   url: http://www.juicer.io
+  technology:
+    - Ruby on Rails
+    - HTML5
+    - CSS
+    - Sass
+    - Javascript
+    - Backbone
+    - Stripe
+    - Social Media
   paragraphs:
     - content: <img src='/images/juicer-1.jpg' alt='Juicer Header' />
     - content: Juicer is a personal project of mine. It came about not because I am passionate about social media feeds (or social media marketing in general) but rather because I saw a space in the market for it, and I was going to have to basically build it anyways.
@@ -24,6 +33,15 @@
 
 - name: Summerland
   url: http://www.summerland.is
+  technology:
+    - Ruby on Rails
+    - HTML5
+    - CSS
+    - Sass
+    - Javascript
+    - Backbone
+    - Stripe
+    - Heroku
   paragraphs:
     - content: <img src='/images/summerland-1.jpg' alt='Summerland Header' />
     - content: Summerland is a subscription based food delivery service. Essentially you sign up and every week you get a box of vegetables and fruit delivered straight to your door. It's kind of like a <a href='http://en.wikipedia.org/wiki/Community-supported_agriculture' target='_blank'>CSA</a> box, but you can personalize it, and you don't have to go pick it up yourself.
