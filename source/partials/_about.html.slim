@@ -9,3 +9,8 @@
           h4 = event.title
           - if event.description.present?
             h5 = event.description
+
+  #tags
+    = partial 'partials/tags', locals: { tags: data.tags.rule, title: 'I rule at' }
+    = partial 'partials/tags', locals: { tags: data.tags.okay, title: 'I\'m OK at' }
+    = partial 'partials/tags', locals: { tags: data.tags.learning, title: 'I\'m learning' }

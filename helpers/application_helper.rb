@@ -3,7 +3,7 @@ module ApplicationHelper
     if data.technology[term].present?
       data.technology[term]
     else
-      "http://lmgtfy.com/?q=#{term}"
+      "https://www.google.com/search?q=#{term}"
     end
   end
 end

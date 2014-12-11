@@ -1,0 +1,33 @@
+rule:
+  - Ruby on Rails
+  - Middleman
+  - HTML
+  - CSS
+  - Sass
+  - Javascript
+  - Backbone
+  - Wordpress
+  - Heroku
+  - AWS
+  - APIs
+  - Tmux
+  - vim
+
+okay:
+  - Python
+  - Ember
+  - Angular
+  - Node
+  - C
+  - Design
+  - UI / UX
+  - Playing Drums
+  - Cooking
+
+learning:
+  - iOS
+  - Objective-C
+  - Rust
+  - Erlang
+  - Drawing
+  - Functional Programming
