@@ -25,6 +25,10 @@
 - name: Summerland
   url: http://www.summerland.is
   paragraphs:
-    - content: This is a paragraph
-    - content: This is also a paragraph
-    - content: Gee I sure hope this works you know?
+    - content: <img src='/images/summerland-1.jpg' alt='Summerland Header' />
+    - content: Summerland is a subscription based food delivery service. Essentially you sign up and every week you get a box of vegetables and fruit delivered straight to your door. It's kind of like a <a href='http://en.wikipedia.org/wiki/Community-supported_agriculture' target='_blank'>CSA</a> box, but you can personalize it, and you don't have to go pick it up yourself.
+    - content: Summerland was an interesting project for many reasons. From the consumer facing side, it's your fairly basic e-commerce website. Add some products to your account, and pay!
+    - content: There's some twists on that, from a programming perspective. First of all, customers don't just sign up for a one time delivery, they get a box every week (or two weeks, or monthly, or just once!) The logic involved to make sure that everyone get's their delivery when they are supposed to is much more complex than your average e-commerce site.
+    - content: Secondly, every box is different. It's a farm to frontdoor style solution, that means whatever the farms are currently offering as a crop is what comes in your box. So of course there has to be a much more complex inventory system on the backend to handle the weekly variances in product.
+    - content: Thirdly, Summerland is local to Los Angeles, and they handle deliveries in house. So the backend also contains a driver routing application that allows Summerland's owners to get the most efficient route for the drivers each day. No two days deliveries are ever the same, and a variable number of drivers are working on a given day, so as you might imagine this was also very difficult to program but it resulted in saving the company a whole lot of time and effort.
+    - content: Overall a huge amount of effort went in to building a robust and helpful admin section for Summerland. I couldn't have done it without my friend and UI/UX expert <a href='http://www.yeedor.com' target='_blank'>Doris Yee</a>.
