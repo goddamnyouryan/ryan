@@ -20,6 +20,9 @@ ul#work
         h2.u-pull-left = site.name
         = link_to "Visit #{site.name}", site.url, target: '_blank', class: 'button u-pull-right'
 
+      p
+        = link_to site.url, target: '_blank' do
+          = image_tag "/images/#{site.image}", alt: "#{site.name} Header"
       - site.paragraphs.each do |paragraph|
         - if paragraph.key?('clear')
           p.clear == paragraph.content

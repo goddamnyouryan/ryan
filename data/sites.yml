@@ -9,8 +9,8 @@
     - Backbone
     - Stripe
     - Social Media
+  image: juicer-1.jpg
   paragraphs:
-    - content: <img src='/images/juicer-1.jpg' alt='Juicer Header' />
     - content: Juicer is a personal project of mine. It came about not because I am passionate about social media feeds (or social media marketing in general) but rather because I saw a space in the market for it, and I was going to have to basically build it anyways.
     - content: Over the course of two years I had three separate clients ask me to put a "social media feed" on to their sites. For those who don't know what that is, it's basically all of their posts from their various business-related social media posts in a single location. Doing this manually would obviously be a huge pain in the ass (you'd have toupdate the website every time you tweet.
     - content: When my first client asked me to do this, I immediately googled <strong><em>Social Media Feed</em></strong>.
@@ -42,8 +42,8 @@
     - Backbone
     - Stripe
     - Heroku
+  image: summerland-1.jpg
   paragraphs:
-    - content: <img src='/images/summerland-1.jpg' alt='Summerland Header' />
     - content: Summerland is a subscription based food delivery service. Essentially you sign up and every week you get a box of vegetables and fruit delivered straight to your door. It's kind of like a <a href='http://en.wikipedia.org/wiki/Community-supported_agriculture' target='_blank'>CSA</a> box, but you can personalize it, and you don't have to go pick it up yourself.
     - content: Summerland was an interesting project for many reasons. From the consumer facing side, it's your fairly basic e-commerce website. Add some products to your account, and pay!
     - content: There's some twists on that, from a programming perspective. First of all, customers don't just sign up for a one time delivery, they get a box every week (or two weeks, or monthly, or just once!) The logic involved to make sure that everyone get's their delivery when they are supposed to is much more complex than your average e-commerce site.
@@ -61,8 +61,8 @@
     - Javascript
     - Backbone
     - Go
+  image: good.jpg
   paragraphs:
-    - content: <img src='/images/good.jpg' alt='GOOD Header' />
     - content: I worked at GOOD for two years as a Software Engineer.
     - content: During my tenure we transformed the site from an online magazine into a "Social Network for Social Good". It has since reverted back into an online magazine, for the most part.
     - content: I left GOOD in December 2013 to travel around Asia for 5 months. You can read all about my travels on my <a href='http://blog.goddamnyouryan.com'>Blog</a>.
@@ -79,8 +79,8 @@
     - Sass
     - Javascript
     - Backbone
+  image: coven.jpg
   paragraphs:
-    - content: <img src='/images/coven.jpg' alt='Coven Header' />
     - content: Coven is a simple web app and also a Google Chrome Extension that turns your new tab screen into a list of all that days programming related news.
     - content: I came across an extension called <a href='http://usepanda.com/app/' target='_blank'>Panda</a> that was for designers, it had design related news and inspiration.
     - content: I loved the idea of Panda but I wanted to change a few things. First, I wanted the news to be targeted towards developers, not designers. Secondly, I wanted to be able to see all the news from the various sources in one place (with Panda you can only show one source at a single time). Thirdly I wanted to do away with the inspiration section. Us developers don't need inpiration.
@@ -97,21 +97,21 @@
     - Sass
     - Javascript
     - Backbone
+  image: tomorrow.jpg
   paragraphs:
-    - content: <img src='/images/tomorrow.jpg' alt='Tomorrow Header' />
     - content: Tomorrow Magazine was put together by a bunch of my former co-workers at <a href='http://www.good.is' target='_blank'>GOOD</a> as a one off magazine funded through kickstarter.
     - content: Together with my designer friend <a href='http://www.reneesolorzano.com'>Renee Solorzano</a> we designed and built the site in two weeks.
     - content: Compared to a lot of my other work it's pretty straightforwards from a programming perspective, it's basically an online magazine. It's mostly impressive because a) We did the whole thing in two weeks and b) It's fucking gorgeous. Of course, I had little to do with that, it's almost entirely due to Renee that it's so beautiful.
 
 - name: Sons and Daughters
-  url: http://www.sonsanddaughers.ca
+  url: http://www.sonsanddaughters.ca
   technology:
     - PHP
     - HTML5
     - CSS
     - Javascript
+  image: sons-and-daughters.jpg
   paragraphs:
-    - content: <img src='/images/sons-and-daughters.jpg' alt='Sons and Daughters Header' />
     - content: Over the years I have built almost countless sites for Production Companies (don't ask me why, it just happened). Sons and Daughters was the first, and my personal favorite.
     - content: When I originally quoted them I was planning on building the site in Rails. Right as I was just about to start building their IT guy got in contact with me to let me know that they needed the site done in PHP so they could host it on their servers. This was back in 2008 or so when I didn't know any better, so I agreed, despite not being especially good at PHP (I never bothered to get really good because I didn't like it and rarely used it outside of wordpress).
     - content: I ended up building them an entire CMS from scratch in PHP so they could add videos and directors without my input. Unfortunately they IT guy insisted on hosting everything, including the video files on their servers, so it's not as it would have been if I had used Amazon CloudFront as a CDN.
@@ -126,8 +126,8 @@
     - Sass
     - Javascript
     - Backbone
+  image: goddamnyouryan.jpg
   paragraphs:
-    - content: <img src='/images/goddamnyouryan.jpg' alt='goddamnyouryan Header' />
     - content: It's a goddamnyouryan.com tradition to put a reference to my site on the site itself. I am so meta.
     - content: This is the 3rd version of goddamnyouryan.com. You can view <a href='http://v1.goddamnyouryan.com' target='_blank'>V1</a> and <a href='http://v2.goddamnyouryan.com' target='_blank'>V2</a> if you'd like to see the progression. Strangely enough it's gotten more and more minimal over time, but maybe more informative each time too?
     - content: It's built using Middleman, a static site generator that I absolutely love. I get to work in Ruby but in the end I build a static site, so it's nice and fast.
