@@ -1,15 +1,17 @@
 ul#work
   - data.sites.each do |site|
     li.u-full-width
-      header.u-cf.u-full-width
-        h2.u-pull-left = site.name
-        = link_to "Visit #{site.name}", site.url, target: '_blank', class: 'button u-pull-right'
+      header.u-full-width.sticky
+        .header-content
+          h2.u-pull-left = site.name
+          = link_to "Visit #{site.name}", site.url, target: '_blank', class: 'button u-pull-right'
 
-      p
-        = link_to site.url, target: '_blank' do
-          = image_tag "/images/#{site.image}", alt: "#{site.name} Header"
-      - site.paragraphs.each do |paragraph|
-        - if paragraph.key?('clear')
-          p.clear == paragraph.content
-        - else
-          p == paragraph.content
+      .info
+        p
+          = link_to site.url, target: '_blank' do
+            = image_tag "/images/#{site.image}", alt: "#{site.name} Header"
+        - site.paragraphs.each do |paragraph|
+          - if paragraph.key?('clear')
+            p.clear == paragraph.content
+          - else
+            p == paragraph.content

@@ -3,12 +3,22 @@ ul#work {
   > li {
     list-style-type: none;
     margin-bottom: 10rem;
+    position: relative;
   }
 
   header {
     border-bottom: 1px solid $border;
     padding: 2rem 0;
     margin-bottom: 2rem;
+    background: $background;
+    overflow: hidden;
+    position: absolute;
+  }
+
+  .header-content {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
   }
 
   h2 {
@@ -31,6 +41,11 @@ ul#work {
 
   img.u-pull-right {
     margin: 0 0 $image-margin $image-margin;
+  }
+
+  .info {
+    position: relative;
+    top: 100px;
   }
 
   a.hashtag {

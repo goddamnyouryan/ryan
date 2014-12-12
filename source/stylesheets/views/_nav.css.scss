@@ -1,5 +1,15 @@
 nav {
   margin-bottom: 30vh;
+  background: $background;
+}
+
+.nav-container {
+  width: 100%;
+}
+
+.anchor {
+  position: relative;
+  padding: 10vh 0;
 }
 
 nav ul, ul.technology {
