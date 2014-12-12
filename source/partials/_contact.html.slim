@@ -1,0 +1,12 @@
+#contact
+  h2 Contact
+  h3 Fill out this form or just email me at #{link_to 'ryan@goddamnyouryan.com', 'mailto:ryan@goddamnyouryan.com'}
+
+  = form_tag '//forms.brace.io/ryan@goddamnyouryan.com' do
+    = hidden_field_tag '_subject', value: 'Contact Form'
+    = text_field_tag '_gotcha', style: 'display: none;'
+
+    = text_field_tag :name, placeholder: 'Your name'
+    = email_field_tag '_replyto', placeholder: 'Your Email'
+    = text_area_tag :message, placeholder: 'What do you want?'
+    = submit_tag 'Send'

@@ -1,0 +1,27 @@
+#contact {
+
+  h2 {
+    border-bottom: 1px solid $border;
+    padding: 2rem 0;
+    margin-bottom: 5rem;
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+}
+
+form {
+}
+
+input[type=text], input[type=email], textarea {
+  box-sizing: border-box;
+  height: 50px;
+  display: block;
+  width: 100%;
+}
+
+textarea {
+  resize: none;
+  height: 10rem;
+}
