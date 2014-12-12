@@ -6,17 +6,26 @@
 }
 
 form {
-
+  overflow: hidden;
 }
 
 input[type=text], input[type=email], textarea {
   box-sizing: border-box;
+}
+
+input[type=text], input[type=email] {
   height: 50px;
-  display: block;
-  width: 100%;
+  width: 49%;
+  display: inline-block;
+}
+
+input[type=text] {
+  margin-right: 2%;
 }
 
 textarea {
   resize: none;
-  height: 10rem;
+  height: 20rem;
+  display: block;
+  width: 100%;
 }
