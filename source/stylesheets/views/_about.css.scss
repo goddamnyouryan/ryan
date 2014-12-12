@@ -1,18 +1,6 @@
-#about {
-  margin-bottom: 10vh;
-
-  h2 {
-    font-size: 1.2rem;
-    border-bottom: 1px solid $border;
-    padding: 2rem 0;
-    margin-bottom: 5rem;
-  }
-}
-
 ul#timeline {
   list-style: none;
   position: relative;
-  margin-bottom: 15rem;
 
   &:before {
     content: '';
