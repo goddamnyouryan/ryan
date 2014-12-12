@@ -1,0 +1,20 @@
+footer {
+  border-top: 1px solid $border;
+  padding: 3rem 0;
+  overflow: hidden;
+
+  p, ul { margin: 0 }
+
+  p {
+    float: left;
+  }
+
+  ul {
+    float: right;
+  }
+
+  li {
+    display: inline-block;
+    margin-left: 15px;
+  }
+}
