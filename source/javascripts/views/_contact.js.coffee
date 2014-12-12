@@ -1,10 +1,14 @@
 class Ryan.Views.Contact extends Backbone.View
 
+  initialize: ->
+    @validate()
+
   events:
     'submit': 'sendFormEmail'
 
   sendFormEmail: (event) ->
     event.preventDefault()
+    return unless @$el.valid()
     target = $(event.target)
     $.ajax
       url: target.attr 'action'
@@ -16,3 +20,14 @@ class Ryan.Views.Contact extends Backbone.View
         target[0].reset()
       error: ->
         alert 'Uh Oh, something went wrong. You should just email me at ryan@goddamnyouryan.com'
+
+  validate: ->
+    @$el.validate
+      errorPlacement: ->
+        ''
+      rules:
+        name: 'required'
+        _replyto:
+          required: true
+          email: true
+        message: 'required'

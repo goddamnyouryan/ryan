@@ -1,5 +1,5 @@
 //= require vendor/_jquery
-//= require vendor/_modernizr
+//= require vendor/_jquery.validate
 //= require vendor/_underscore
 //= require vendor/_backbone
 //= require vendor/_stackheads

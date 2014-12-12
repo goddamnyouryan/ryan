@@ -11,6 +11,10 @@ form {
 
 input[type=text], input[type=email], textarea {
   box-sizing: border-box;
+
+  &.error {
+    border-color: orange;
+  }
 }
 
 input[type=text], input[type=email] {
