@@ -2,6 +2,12 @@ footer {
   border-top: 1px solid $border;
   padding: 3rem 0;
   overflow: hidden;
+  font-size: 1.3rem;
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
+  }
 
   p, ul { margin: 0 }
 
