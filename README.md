@@ -3,7 +3,7 @@ The third version of my portfolio site. Built using middleman, hosted on s3/clou
 
 ## TODO
 - ~~Make footer links scroll~~
-- Google Analytics
+- ~~Google Analytics~~
 - Sitemap
 - Social Links
 - Other work (crappy sites)
