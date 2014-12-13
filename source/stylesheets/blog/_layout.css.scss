@@ -1,12 +1,12 @@
 header.main {
   position: absolute;
-  top: 5rem;
+  top: $blog-header-top;
   width: 100%;
   text-align: center;
 
   h1, h2 {
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
     max-width: 800px;
   }
 
@@ -37,5 +37,19 @@ footer {
 
 body.no-image {
 
-  .container { margin-top: 300px; }
+  header.main {
+    position: relative;
+    top: 0;
+    margin-top: $blog-header-top;
+  }
+}
+
+ul#articles {
+  text-align: center;
+  list-style-type: none;
+
+  span {
+    display: block;
+    color: lighten($text, 40%);
+  }
 }

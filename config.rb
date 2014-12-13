@@ -58,8 +58,8 @@ activate :blog do |blog|
   # blog.default_extension = ".markdown"
 
   # Enable pagination
-  # blog.paginate = true
-  # blog.per_page = 10
+  blog.paginate = true
+  blog.per_page = 20
   # blog.page_link = "page/{num}"
 end
 page '/feed.xml', layout: false

@@ -1,0 +1,19 @@
+doctype html
+html
+  head
+    meta charset='utf-8'
+    meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'
+    title == data.page.title || 'goddamnyouryan'
+
+    == stylesheet_link_tag 'http://fonts.googleapis.com/css?family=Raleway:400,300,600'
+    == stylesheet_link_tag 'blog'
+    == partial 'partials/meta'
+    == partial 'partials/analytics'
+
+  body.blog.no-image
+    header.main
+      h1 = link_to 'God Damn You Ryan', '/blog'
+      h2 The Blog of #{link_to 'Ryan MacInnes', '/'}. Web developer and cool dude.
+    .container
+      == yield
+    == partial 'partials/footer'
