@@ -1,0 +1,6 @@
+footer
+  .container
+    p
+      ' ©#{Time.now.year} goddamnyouryan.
+      ' Old versions: #{link_to 'v1', 'http://v1.goddamnyouryan.com'} #{link_to 'v2', 'http://v2.goddamnyouryan.com'}
+    = partial 'partials/links', legacy: true

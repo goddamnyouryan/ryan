@@ -6,7 +6,7 @@ class Ryan.Views.Scroll extends Backbone.View
   scrollToAnchor: ->
     event.preventDefault()
     target = $(event.target)
-    hash = target.attr('href')
+    hash = target.attr('href').split('/')[1]
     $('html,body').animate({ scrollTop: @scrollDistance(hash) }, { easing: 'swing', duration: 500 })
 
   scrollDistance: (id) ->

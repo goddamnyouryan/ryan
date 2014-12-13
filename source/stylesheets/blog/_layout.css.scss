@@ -1,0 +1,35 @@
+header.main {
+  position: absolute;
+  top: 5rem;
+  width: 100%;
+  text-align: center;
+
+  h1, h2 {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 800px;
+  }
+
+  h1 {
+    margin-bottom: 1rem;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+body.light header.main {
+  color: $background;
+
+  a {
+    color: $background;
+  }
+}
+
+footer {
+
+  .container {
+    margin: 0 auto;
+  }
+}

@@ -35,6 +35,37 @@ end
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
 
+ ###
+# Blog settings
+###
+
+# Time.zone = "UTC"
+
+activate :blog do |blog|
+  # This will add a prefix to all links, template references and source paths
+  blog.prefix = 'blog'
+
+  blog.permalink = "{title}.html"
+  blog.sources = "articles/{title}.html"
+  # Matcher for blog source files
+  # blog.taglink = "tags/{tag}.html"
+  blog.layout = 'blog'
+  # blog.summary_separator = /(READMORE)/
+  # blog.summary_length = 250
+  # blog.year_link = "{year}.html"
+  # blog.month_link = "{year}/{month}.html"
+  # blog.day_link = "{year}/{month}/{day}.html"
+  # blog.default_extension = ".markdown"
+
+  # Enable pagination
+  # blog.paginate = true
+  # blog.per_page = 10
+  # blog.page_link = "page/{num}"
+end
+page '/feed.xml', layout: false
+
+activate :directory_indexes
+
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload

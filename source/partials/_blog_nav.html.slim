@@ -1,0 +1,6 @@
+nav
+  ul
+    - if next_article.present?
+      li Next: #{link_to next_article.title, next_article}
+    - if previous_article.present?
+      li Previous: #{link_to previous_article.title, previous_article}
