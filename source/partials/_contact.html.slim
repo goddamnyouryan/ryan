@@ -8,4 +8,5 @@
     = text_field_tag :name, placeholder: 'Your name'
     = email_field_tag '_replyto', placeholder: 'Your Email'
     = text_area_tag :message, placeholder: 'What do you want?'
+    = partial 'partials/social'
     = submit_tag 'Send', class: 'u-pull-right'

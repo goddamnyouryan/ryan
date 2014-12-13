@@ -5,5 +5,5 @@ The third version of my portfolio site. Built using middleman, hosted on s3/clou
 - ~~Make footer links scroll~~
 - ~~Google Analytics~~
 - ~~Sitemap~~
-- Social Links
+- ~~Social Links~~
 - Other work (crappy sites)

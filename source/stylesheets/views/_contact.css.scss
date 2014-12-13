@@ -43,3 +43,38 @@ textarea {
   float: left;
   margin-top: 7px;
 }
+
+ul#social {
+  $size: 1.4rem;
+  margin-top: 7px;
+
+  li {
+    display: inline-block;
+    margin: 0 $size 0 0;
+  }
+
+  a {
+    text-decoration: none;
+    width: $size;
+    color: transparent;
+    display: block;
+    white-space: nowrap;
+
+    &:before {
+      @include icons($size);
+      color: $text;
+      transition: color 0.2s ease-in-out;
+    }
+
+    &.github:before { content: '\E800'; }
+    &.facebook:before { content: '\E802'; }
+    &.twitter:before { content: '\E801'; }
+    &.instagram:before { content: '\E804'; }
+    &.linked-in:before { content: '\E803'; }
+    &.blog:before { content: '\E805'; }
+
+    &:hover:before {
+      color: $link;
+    }
+  }
+}
