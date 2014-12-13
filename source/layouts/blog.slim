@@ -10,8 +10,9 @@ html
     == partial 'partials/meta'
     == partial 'partials/analytics'
 
-  body class="#{blog_lightness} blog"
-    = image_tag current_article.metadata[:page]['image']
+  body class="#{blog_lightness} blog #{header_image?}"
+    - if has_image?
+      = image_tag current_article.metadata[:page]['image']
     header.main
       h1 = link_to 'God Damn You Ryan', '/blog'
       h2 The Blog of #{link_to 'Ryan MacInnes', '/'}. Web developer and cool dude.

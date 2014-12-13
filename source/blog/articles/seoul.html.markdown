@@ -1,0 +1,28 @@
+---
+title: Seoul
+image: http://assets.goddamnyouryan.com/blog/asia/korea-temple.jpg
+light: true
+date: 2014-01-16
+---
+
+Maura and I flew Singapore air to Seoul which was much nicer than I could have anticipated. I probably should have gotten some freelance (err self employment) work done but instead what I did was watch movies. There were so many movies to be watched it was great. At Worlds End and Blue Jasmine were the two highlights.
+
+The flight took about 14 hours and afterwards we were easily whisked through customs. We took the metro to the center of the city to a neighborhood named Itaewon where our airbnb was located. It was snowing pretty hard and it took us much longer than it should have to find. When we did we discovered, to my great delight, that most Korean apartments are heated via the floor. So the floor is always toasty warm. This doesn't sound that great, but I assure you, it's amazing.
+
+We hadn't eaten in a very long time, and it was about 11pm on a Wednesday night but we ventured back out in search of food. We found a place with no English on the sign but it looked nice inside and there were other people. It turns out there is also no English on the menu nor did our server speak English so we ordered by pointing at what another table of women had ordered. We ended up with scallion pancakes, some lightly fried veggies, and soju.  Maura maintains this was the best meal we ate in Korea and she might be right.
+
+![](http://assets.goddamnyouryan.com/blog/asia/korean-restaurant.jpg)
+
+We were there for a week and we did lots of things but I won't go into great detail about most of them (because I can't remember mostly) but here are some highlights:
+
+*   **Shopping:** So much shopping to be done in Korea. Koreans have great taste in clothes and most of it is very reasonably priced. Unfortunately I only brought a small backpack with me so I didn't have much room to buy many clothes. But Maura had plenty of room. So we spent a lot of time in malls or shopping areas, Maura asking me if Anton (her boyfriend) would like this sweater and me saying "No".
+*   **Dog cafe:** for about 8 dollars you get access to a dog cafe, and a coffee drink. A dog cafe is just what it sounds like, a cafe with about 30 dogs running around. It might be the best place I've ever been. A beagle became very attached to me and followed me around for several hours. Maura had not one but two daschunds climb into her lap for a nap so she was pretty immobile.
+*   **Food:** I ate so much kimchi my colon was singing. We had several meals at traditional Korean restaurants which means you sit cross legged on a pillow and for me it means my legs are falling asleep. It was delicious though. One of my favorites was soup with a whole chicken in it.
+*   **Coffee:** much to my chagrin, most coffee places in Korea don't open until 10am. Considering my jet lagged self was waking up at 6am every day this seemed like an extraordinarily long time to wait before my morning brew. Not only that but they don't serve normal drip coffee either so i was drinking a lot of Americanos and lattes. Meh. We did find one coffee place that made a fancy pour over but it cost about 7 dollars and afterwards I had the caffeine shakes buy goddamn was that a good cup.
+*   **Culture:** we didn't actually do that much touristy stuff because it turns out neither of us is particularly interested in Korean history. That being said we went to the formal presidential palace which is a pretty impressive building and very impressive grounds (they are huge). We accidentally wandered into the Korean cultural museum which if turns out is one of the most boring museums of all time (there's only so many ways to say the eldest son was the head of the household, women prayed for peace, and horses were very important). Afterwards we accidentally stumbled across the Seoul Museum of Contemporary Art, this was 1000x better, one of the best museums I've ever been to.
+*   **Spas:** We went to two different Korean spas, the first being better than the second. If you've never been this is how it works: you show up, take off your shoes, and pay between 8-15 bucks. Then the men go one way and the women another. You're lead into a locker room where you get completely naked. If you've never been a tattooed white boy surrounded by hundreds of old naked Korean men I highly recommend it. Your corralled into a bath area where you have to give yourself a serious scrub down in a shower. Then you can hang out in some wonderful hot tubs, making sure to scrub yourself down between each one. There's also lots of different saunas. After about an hour of this you can put on a little spa outfit and go to the common area which usually consisted of me taking a nap on the ground. Considering I had trouble getting our shower water to get hot in our apartment this was the main way I got clean. And man is it relaxing.
+*   **Heeyoung:** I first met Heeyoung when I was living in New York, she is dating my friend Adam. She is Korean and had spent the last 3 months in Korea, doing work. She's a singer-songwriter on an indie label, we went and see her do a short show in my favorite neighborhood in Seoul. We also had her take us to several different restaurants while we were there, ate some delicious food and drank some Korean rice wine, which is more like milk+beer, you drink it out of a bowl, and it's super delicious.
+
+![](http://assets.goddamnyouryan.com/blog/asia/korea-museum.jpg)
+
+We did lots of other stuff too while we were there, we basically saw all the desirable neighborhoods and checked everything off the extensive list Maura had made for us. Korea is cool, and very nice, if not a bit too cold in December.

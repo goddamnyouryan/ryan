@@ -1,0 +1,59 @@
+---
+title: Nadiad
+image: http://assets.goddamnyouryan.com/blog/asia/nadiad-sunset.jpg
+date: 2014-01-22
+---
+
+The journey to Nadiad, where Esha lives, is actually quite the tale in and of itself. I first flew to Hong Kong and had a 4 hour layover there. My next flight was to Mumbai where I had a 9 hour layover before flying to Ahmedabad. I bought a different flight to Ahmedabad that left 2 hours after I arrived in Mumbai so that I could get there the same time as Nick and Mary and Allison, but as we all know, god laughs at the plans of mice and men, especially in India.
+
+Needless to say, between not making it through customs in a quick fashion, and then the airport being an absolute clusterfuck, I missed that first flight. It turns out that in Mumbai there are actually two airports, one international and one domestic, about 8km from each other. I tried to get on the shuttle between the two from within the airport, but since I only had the ticket on my phone, they didn't let me. They told me I had to I out and go to the desk. By the time I did that, it was 15 minutes until my flight left. At the desk they told me that I was supposed to go on the shuttle that I tried to go on, but since I was out of the security area I'd have to get to the domestic airport myself. I took a "taxi" (I use the term taxi loosely, it was basically a 3 wheeled motorcycle that they call an autorickshaw) and arrived there around 2am. My flight wasn't until 10:15am the next day. I got a lot of reading done as you might imagine.
+
+Once I got to Ahmedabad I decided to wait until 1am when Allison's flight arrived because I was super excited to see her. Turns out at Ahmedabad they won't just let you hang out around airports. They wouldn't let me back in, and I kept getting accosted by guards and rickshaw drivers (this, it turns out, is an insanely common occurance in India) so eventually I gave up and decided to come back and get Allison that night.
+
+I paid about $20 for an hour and a half long taxi ride to Esha's house in a town called Nadiad. Even though I had mentally prepared for India to be shitty I wasn't even remotely close to ready for the absolute poverty and squalor I'd see on that ride, I'm not sure you really can be until you visit.
+
+Traffic "laws" are a joke, the only general rule anyone seems to follow is staying vaguely to the left, it's a free for all besides that. We were passing cars left and right, oftentimes in the opposite lane with huge trucks barreling towards us at breakneck speeds (of course the taxi didn't have any seatbelts). We got stuck in a traffic jam for about 20 minutes because a herd of cows wandered into the road (I later learned that cows in India are like stray cats, they just wander the streets all over the place, mostly eating garbage).
+
+![](http://assets.goddamnyouryan.com/blog/asia/nadiad-cow.jpg)
+
+The streets in India all look like they are about 75 years old and have never been repaired. Many buildings are half standing piles of rubble. There is garbage EVERYWHERE. The closest thing they have to trash pickup is the cows, or lighting the trash on fire.
+
+Eventually I made it to Esha's house. She wasn't there but Nick and Mary were, along with the rest of her immediate family. Esha'a brother Krutik is the man, he was our go to dude all week. He tirelessly looked after us as well as performing a myriad of wedding duties. I can't emphasize enough how awesome he is. Same with the rest of Esha's family, they were the nicest, most giving, sweetest people you've ever met (the rest of the Indians we met though...oh boy...but I'll get to that later). Hospitality in India is no joke. There's a common saying here "Guests are gods" and they really treat you like that.  I was immediately ambushed with snacks and Chai upon my arrival and was kept plump and full basically every second I was there. We quickly learned not to ask for anything sounding remotely close to a favor as they will bend over backwards to help you out.
+
+We spent the first day being driven around by Krutik's friend buying clothes for the wedding (we got some pretty sweet Indian traditional garb and some sandals) and being fed. Any night we drove to the next town over to buy alcohol. Gujarat is a dry state (as well as a vegetarian one) so only foreigners are allowed to drink. We didn't particularly want to drink but the Indians did, so they had us buy some anyways. It was a several hour ordeal with massive amounts of inefficiencies and paperwork which we eventually learned are the hallmarks of doing anything in India (India: the most pointlessly and massively wasteful country on earth). We got them some coronas and buds which cost about 3 times as much as they do in the US.
+
+That evening I took a nap and then went with Krutik to the airport to get Allison at 1:50am. I was so excited she was there and was so happy to see her.
+
+The next day was the first of a two day Kite festival which is quite possibly the biggest holiday in all of Gujarat. First we went to a big temple where Nick got interviewed for some guys website (the joy of being a white person in rural India). After, we went to Esha's grandmas house (who is adorable and super super old) and went on her roof. We brought about 100 small kites and 20 paper lanterns. Basically we spent all day fighting kites with their neighbors. Everyone in the city is up on their roofs flying kites. All of the kits have little bits of glass embedded in the string. The goal is to use your string to cut the string of your neighbors kites. If you do the whole roof shouts as loud as they can. It's amazing to see a city with thousands of kits flying above it at once. Several roofs have huge sound systems blasting terrible Indian dance music at unreasonable volumes. It was great.
+
+Once it gets dark people start lighting paper lanterns. These are the ones with little fires underneath. At a certain point there were thousands of these lanterns in the air at once, it's a site to behold. People also launch lots of huge, and if it was the US, extremely illegal fireworks. It's awesome.
+
+![](http://assets.goddamnyouryan.com/blog/asia/nadiad-fireworks.jpg)
+
+After a bulk of the fireworks died down we went to Esha's parents friends house where the guest rule kicked in and we were fed until we were stuffed. It was here that we first experienced the "middle aged Indian man problem". It wasn't annoying yet, though eventually it became so: middle aged Indian men love to order you around, they absolutely love it. They'll shovel food in front of you even if you specifically tell them you don't want it. None of them speak much English but they use every bit of it to harass you and tell you inane things or to order you to eat, or sit. If you don't comply they'll pout and whine. Eventually we just learned to ignore it, but I must say, as a fiercely independent American adult male, it infuriates me to no end to be constantly told what to do, usually with ridiculously simple instructions. Yes I know that you eat curry. Yes I know how a chair works. Fuck you old Indian men. (I should reiterate, Esha's immediate family and friends were great and not at all like this, they were all the best).
+
+The next day I spent vomiting and peeing out of my butt instead of on the roof for day 2 of the kite festival. Our friend Michelle also arrived this day. Allison, being the absolute sweetheart that she is, stayed at home with me and took care of me. After a full of this she somehow managed to still be attracted to me.
+
+The day after that I vomited once more but from then on out I felt great. (Or at least I didn't vomit and my shits were relatively solid).
+
+The following day we got up early to go to a hair cutting ceremony for Esha's families friend son Neev. In Gujarat it is tradition to not cut a boys hair until he is 2 years old. Then on a certain day you take him to a holy lake town (we named the lake "garbage lake") to ritually shave his head. Neev is awesome and hilarious and cute and he was crying the whole time, it was heartbreaking. They actually shave his head with a straight razor which was pretty surprising. The whole time we were there horribly inept pickpockets were eyeing us. After, we went back to Esha's house and the girls got their hands and arms and legs and feet hennaed. They probably also did some shopping for wedding clothes and I totally forget what us boys did.
+
+![](http://assets.goddamnyouryan.com/blog/asia/nadiad-lake.jpg)
+
+The next three days were Esha's wedding. Day 1 was the "pre wedding", day 2 was the actual wedding and day 3 was the reception.
+
+During the pre-wedding we spent a big portion of the day dancing in the street. They hire a matching band and a big speaker set on wheels that slowly rolls down the road and plays the most unimaginably loud and bad music give ever heard. It sounds like a carnival ride in an insane asylum. It's so loud it slowly drives you insane. The dancing is a big circle of people doing fairly simple steps (except for one dance that we could never figure out). Some of the songs last for 20 minutes.
+
+That night we went to the local community center and ate some more Gujarati food and afterwards a DJ came in and we all danced to Indian dance music. [This](http://www.youtube.com/watch?v=830PhCOHeB0&sns=em) is by far the best song we heard (we must have heard if about 20 times during our stay in Nadiad).
+
+Indian culture is super sexually repressed, to an annoying degree. Opposite genders don't touch at all in public, and they certainly don't dance with each other. This leads to big circles of men dancing with each other. There is much much close-quarters hip thrusting then you would think which I found especially ironic as being gay is still extremely illegal in India. Unfortunately all this repression leads to you (as a white man) being forcibly danced on by hundreds of Indian men. It's pretty traumatic. They love to hold hands too. I finally know what it must be like to be a girl in a club. It's horrible. But eventually we loosened up and me and nick spent the whole night dancing like complete idiots, which the Indian men absolutely loved.
+
+The next day was the actual wedding, which was held at a lovely outdoor space. There's no ceremony per se and most people spend the day wandering around and eating, occasionally coming to a raised gazebo area where the bride and groom are participating in thousands of endless and boring Hindu rituals. It's totally fine to just wander up on to the platform and fart around right in front of them. Afterwards they spend about 4 hours taking pictures. The groom got brought in on a horse drawn carriage which was pretty cool, though it was hilariously covered in multicolored LEDs.
+
+![](http://assets.goddamnyouryan.com/blog/asia/nadiad-eshas-wedding.jpg)
+
+The reception is out on by the grooms family the next day. We were stuffed full of food all day, like usual, by this time we were super sick of eating basically the same Gujarati food at every single meal, the reception at least had Popsicles. We went home early as we discovered that Allison's flight was actually at 4:30am and not at 12:30 the next day as expected. I stayed up with her and took her on a taxi to the airport where I was super bummed to bid her adieu. (Though I was super jealous she got to go back to the US and eat delicious, non-Gujarati food).
+
+I got home at about 3am in a huge thunderstorm and got about 4 hours of sleep before we had to get up and take our own taxi to the airport for our flight to Delhi. Leaving Ahmedabad was just as big of a pain in the ass as arriving was, our flight was about 4 hours late. We had a driver in Delhi waiting for us to take us to Agra, who patiently waited for us.
+
+My impression of India so far is that it has a wonderful and extremely old cultural tradition and it absolutely beautiful but also that it's a horrible shithole full of annoying idiots.

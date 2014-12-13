@@ -31,5 +31,11 @@ footer {
 
   .container {
     margin: 0 auto;
+    margin-top: 0 !important;
   }
+}
+
+body.no-image {
+
+  .container { margin-top: 300px; }
 }
