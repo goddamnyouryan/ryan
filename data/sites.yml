@@ -16,7 +16,7 @@
     - content: When my first client asked me to do this, I immediately googled <strong><em>Social Media Feed</em></strong>.
     - content: I found a service called <strong>Tint</strong>. Tint was great, it did exactly what I wanted it to do, you'd enter in your social media account names, copy and paste some code on to your site and <em>voila</em> you had a social media feed on your site. Best of all Tint cost $10 a month.
     - content: Tint did all the heavy lifting for you, it connected to the social media sites (which can be a surprising pain in the ass, and each one is different), and automatically pulled in the new posts for you, so once you embedded it you didn't have to do anything after that.
-    - content: I happily used Tint for several clients sites until I was building the site for <a href='http://www.descendants.tv' target='_blank'>Descendants</a> and they asked me to add a social media feed. I went to go sign them up to Tint when I discovered that Tint had raised their prices from $10 a month to $250 a month (since then they have raised their prices again to $500 a month).
+    - content: I happily used Tint for several clients sites until I was building the site for <a href='http://www.descendants.tv'>Descendants</a> and they asked me to add a social media feed. I went to go sign them up to Tint when I discovered that Tint had raised their prices from $10 a month to $250 a month (since then they have raised their prices again to $500 a month).
     - content: <img src='/images/juicer-2.jpg' class='u-pull-left' alt='Juicer Menu' /> Descendants obviously didn't want to pay $250 a month but they still wanted a social media feed on their site. They asked if I would build a custom one for them. I said I would just build a tint-like service and not charge them for it (on the condition they sign up for the service). I called it <a href='http://www.juicer.io'>Juicer</a>.
     - content: It works almost exactly the same way Tint does, you enter your social media account names and copy and paste some code on to your site and Juicer does the rest.
     - content: But if you ask me, it's better than Tint.
@@ -44,12 +44,12 @@
     - Heroku
   image: summerland-1.jpg
   paragraphs:
-    - content: Summerland is a subscription based food delivery service. Essentially you sign up and every week you get a box of vegetables and fruit delivered straight to your door. It's kind of like a <a href='http://en.wikipedia.org/wiki/Community-supported_agriculture' target='_blank'>CSA</a> box, but you can personalize it, and you don't have to go pick it up yourself.
+    - content: Summerland is a subscription based food delivery service. Essentially you sign up and every week you get a box of vegetables and fruit delivered straight to your door. It's kind of like a <a href='http://en.wikipedia.org/wiki/Community-supported_agriculture'>CSA</a> box, but you can personalize it, and you don't have to go pick it up yourself.
     - content: Summerland was an interesting project for many reasons. From the consumer facing side, it's your fairly basic e-commerce website. Add some products to your account, and pay!
     - content: There's some twists on that, from a programming perspective. First of all, customers don't just sign up for a one time delivery, they get a box every week (or two weeks, or monthly, or just once!) The logic involved to make sure that everyone get's their delivery when they are supposed to is much more complex than your average e-commerce site.
     - content: Secondly, every box is different. It's a farm to frontdoor style solution, that means whatever the farms are currently offering as a crop is what comes in your box. So of course there has to be a much more complex inventory system on the backend to handle the weekly variances in product.
     - content: Thirdly, Summerland is local to Los Angeles, and they handle deliveries in house. So the backend also contains a driver routing application that allows Summerland's owners to get the most efficient route for the drivers each day. No two days deliveries are ever the same, and a variable number of drivers are working on a given day, so as you might imagine this was also very difficult to program but it resulted in saving the company a whole lot of time and effort.
-    - content: Overall a huge amount of effort went in to building a robust and helpful admin section for Summerland. I couldn't have done it without my friend and UI/UX expert <a href='http://www.yeedor.com' target='_blank'>Doris Yee</a>.
+    - content: Overall a huge amount of effort went in to building a robust and helpful admin section for Summerland. I couldn't have done it without my friend and UI/UX expert <a href='http://www.yeedor.com'>Doris Yee</a>.
 
 - name: GOOD
   url: http://www.good.is
@@ -67,7 +67,7 @@
     - content: During my tenure we transformed the site from an online magazine into a "Social Network for Social Good". It has since reverted back into an online magazine, for the most part.
     - content: I left GOOD in December 2013 to travel around Asia for 5 months. You can read all about my travels on my <a href='http://blog.goddamnyouryan.com'>Blog</a>.
     - content: We had an amazing product team at GOOD. It's where I learned how to really scale a Rails site for high traffic. I learned to love Backbone.js. I learned that code doesn't have to just be functional, it can be beautiful as well. I learned that it's possible to be friend-friends with your co-workers, not just work-friends.
-    - content: I also met my girlfriend <a href='http://www.mushaboom.net' target='_blank'>Allison</a> there, so that's cool too.
+    - content: I also met my girlfriend <a href='http://www.mushaboom.net'>Allison</a> there, so that's cool too.
 
 - name: Coven
   url: http://www.coven.link
@@ -82,10 +82,10 @@
   image: coven.jpg
   paragraphs:
     - content: Coven is a simple web app and also a Google Chrome Extension that turns your new tab screen into a list of all that days programming related news.
-    - content: I came across an extension called <a href='http://usepanda.com/app/' target='_blank'>Panda</a> that was for designers, it had design related news and inspiration.
+    - content: I came across an extension called <a href='http://usepanda.com/app/'>Panda</a> that was for designers, it had design related news and inspiration.
     - content: I loved the idea of Panda but I wanted to change a few things. First, I wanted the news to be targeted towards developers, not designers. Secondly, I wanted to be able to see all the news from the various sources in one place (with Panda you can only show one source at a single time). Thirdly I wanted to do away with the inspiration section. Us developers don't need inpiration.
     - content: So I built Coven over the course of a week or so. It was my first Chrome Extension, which was interesting. I also built it in two parts, a Rails backed API Service that polls the news sources and pulls in new articles and a front-end built using Middleman, a static site generator.
-    - content: I've also opened sourced both parts the <a href='https://www.github.com/goddamnyouryan/coven-api' target='_blank'>API</a> and the <a href='https://www.github.com/goddamnyouryan/coven' target='_blank'>Front End</a>.
+    - content: I've also opened sourced both parts the <a href='https://www.github.com/goddamnyouryan/coven-api'>API</a> and the <a href='https://www.github.com/goddamnyouryan/coven'>Front End</a>.
     - content: It's certainly not the prettiest thing I've ever built but it gets the job done. I use the Chrome Extension every day.
 
 - name: Tomorrow
@@ -99,7 +99,7 @@
     - Backbone
   image: tomorrow.jpg
   paragraphs:
-    - content: Tomorrow Magazine was put together by a bunch of my former co-workers at <a href='http://www.good.is' target='_blank'>GOOD</a> as a one off magazine funded through kickstarter.
+    - content: Tomorrow Magazine was put together by a bunch of my former co-workers at <a href='http://www.good.is'>GOOD</a> as a one off magazine funded through kickstarter.
     - content: Together with my designer friend <a href='http://www.reneesolorzano.com'>Renee Solorzano</a> we designed and built the site in two weeks.
     - content: Compared to a lot of my other work it's pretty straightforwards from a programming perspective, it's basically an online magazine. It's mostly impressive because a) We did the whole thing in two weeks and b) It's fucking gorgeous. Of course, I had little to do with that, it's almost entirely due to Renee that it's so beautiful.
 
@@ -129,5 +129,5 @@
   image: goddamnyouryan.jpg
   paragraphs:
     - content: It's a goddamnyouryan.com tradition to put a reference to my site on the site itself. I am so meta.
-    - content: This is the 3rd version of goddamnyouryan.com. You can view <a href='http://v1.goddamnyouryan.com' target='_blank'>V1</a> and <a href='http://v2.goddamnyouryan.com' target='_blank'>V2</a> if you'd like to see the progression. Strangely enough it's gotten more and more minimal over time, but maybe more informative each time too?
+    - content: This is the 3rd version of goddamnyouryan.com. You can view <a href='http://v1.goddamnyouryan.com'>V1</a> and <a href='http://v2.goddamnyouryan.com'>V2</a> if you'd like to see the progression. Strangely enough it's gotten more and more minimal over time, but maybe more informative each time too?
     - content: It's built using Middleman, a static site generator that I absolutely love. I get to work in Ruby but in the end I build a static site, so it's nice and fast.
