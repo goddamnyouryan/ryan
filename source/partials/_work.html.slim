@@ -3,7 +3,7 @@ ul#work
     li.u-full-width
       header.u-full-width.sticky
         .header-content
-          h2.u-pull-left = site.name
+          h2.u-pull-left = link_to site.name, site.url, target: '_blank'
           = link_to "Visit #{site.name}", site.url, target: '_blank', class: 'button u-pull-right'
 
       .info

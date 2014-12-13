@@ -13,14 +13,28 @@ footer {
 
   p {
     float: left;
+
+    @include media(600px) {
+      float: none;
+    }
   }
 
   ul {
     float: right;
+
+    @include media(600px) {
+      float: none;
+      clear: left;
+      margin-top: 2rem;
+
+      li {
+        margin: 0 15px 0 0;
+      }
+    }
   }
 
   li {
     display: inline-block;
-    margin-left: 15px;
+    margin: 0 0 0 15px;
   }
 }

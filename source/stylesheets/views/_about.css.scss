@@ -79,7 +79,7 @@ ul#timeline {
     line-height: 1.6;
   }
 
-  @include media(800px) {
+  @include media($container-width) {
 
     &:before {
       left: 0;

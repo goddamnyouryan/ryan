@@ -25,6 +25,7 @@ window.stackHeads=function(){
                     header.style.position="fixed";
                     header.style.top="0px";
                     header.style.left="0px";
+                    $(header).addClass('stuck');
                 }
 
             }
@@ -34,12 +35,14 @@ window.stackHeads=function(){
                 header.style.position="fixed";
                 header.style.top="0px";
                 header.style.left="0px";
+                $(header).addClass('stuck');
             }
         }
         else{
             //if we haven't gotten to the header yet
             header.style.position='absolute';
             header.style.removeProperty('top');
+            $(header).removeClass('stuck');
         }
     }
 };

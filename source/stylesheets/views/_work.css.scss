@@ -13,20 +13,31 @@ ul#work {
     background: $background;
     overflow: hidden;
     position: absolute;
+    height: $header-height;
   }
 
   .header-content {
     width: 100%;
-    max-width: 800px;
+    max-width: $container-width;
     margin: 0 auto;
   }
 
+  header.stuck .header-content { width: 80%; }
+
   h2 {
     margin: 1.2rem 0 0 0;
+
+    a {
+      text-decoration: none;
+    }
   }
 
   .button {
     margin: 0;
+
+    @include media(600px) {
+      display: none;
+    }
   }
 
   p.clear {
