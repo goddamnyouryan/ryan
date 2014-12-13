@@ -42,8 +42,7 @@ end
 
 activate :dotenv
 
-# Activate sync extension
-
+# Activate `middleman sync`
 activate :sync do |sync|
   sync.fog_provider = 'AWS'
   sync.fog_directory = ENV['S3_BUCKET']
@@ -52,6 +51,13 @@ activate :sync do |sync|
   sync.aws_secret_access_key = ENV['S3_SECRET_KEY']
   sync.existing_remote_files = 'delete'
   sync.gzip_compression = true
+end
+
+# enable `middleman invalidate`
+activate :cloudfront do |cf|
+  cf.access_key_id = ENV['S3_ACCESS_KEY']
+  cf.secret_access_key = ENV['S3_SECRET_KEY']
+  cf.distribution_id = ENV['CLOUDFRONT_ID']
 end
 
 ###
