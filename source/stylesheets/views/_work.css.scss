@@ -46,12 +46,23 @@ ul#work {
 
   $image-margin: 25px;
 
-  img.u-pull-left {
-    margin: 0 $image-margin $image-margin 0;
-  }
+  img {
 
-  img.u-pull-right {
-    margin: 0 0 $image-margin $image-margin;
+    &.u-pull-left {
+      margin: 0 $image-margin $image-margin 0;
+    }
+
+    &.u-pull-right {
+      margin: 0 0 $image-margin $image-margin;
+    }
+
+    @include media(600px) {
+      &.u-pull-left, &.u-pull-right {
+        float: none;
+        display: block;
+        margin: 0 auto 2.5rem;
+      }
+    }
   }
 
   .info {
