@@ -65,7 +65,7 @@
   paragraphs:
     - content: I worked at GOOD for two years as a Software Engineer.
     - content: During my tenure we transformed the site from an online magazine into a "Social Network for Social Good". It has since reverted back into an online magazine, for the most part.
-    - content: I left GOOD in December 2013 to travel around Asia for 5 months. You can read all about my travels on my <a href='http://blog.goddamnyouryan.com'>Blog</a>.
+    - content: I left GOOD in December 2013 to travel around Asia for 5 months. You can read all about my travels on my <a href='/blog'>Blog</a>.
     - content: We had an amazing product team at GOOD. It's where I learned how to really scale a Rails site for high traffic. I learned to love Backbone.js. I learned that code doesn't have to just be functional, it can be beautiful as well. I learned that it's possible to be friend-friends with your co-workers, not just work-friends.
     - content: I also met my girlfriend <a href='http://www.mushaboom.net'>Allison</a> there, so that's cool too.
 
