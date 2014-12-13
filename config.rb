@@ -62,7 +62,8 @@ activate :blog do |blog|
   blog.per_page = 20
   # blog.page_link = "page/{num}"
 end
-page '/feed.xml', layout: false
+page '/blog.xml', layout: false
+page '/blog.rss', layout: false
 
 activate :directory_indexes
 

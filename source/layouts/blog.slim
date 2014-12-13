@@ -9,6 +9,7 @@ html
     == stylesheet_link_tag 'blog'
     == partial 'partials/meta'
     == partial 'partials/analytics'
+    == partial 'partials/feeds'
 
   body class="#{blog_lightness} blog #{header_image?}"
     - if has_image?
