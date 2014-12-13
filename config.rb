@@ -64,6 +64,7 @@ activate :blog do |blog|
 end
 page '/blog.xml', layout: false
 page '/blog.rss', layout: false
+page '/sitemap.xml', layout: false
 
 activate :directory_indexes
 
