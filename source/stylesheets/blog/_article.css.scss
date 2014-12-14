@@ -15,6 +15,10 @@ img {
       margin-bottom: 0;
     }
   }
+
+  @include media(500px) {
+    margin: 5rem auto;
+  }
 }
 
 article {
