@@ -12,7 +12,7 @@
   image: juicer-1.jpg
   paragraphs:
     - content: Juicer is a personal project of mine. It came about not because I am passionate about social media feeds (or social media marketing in general) but rather because I saw a space in the market for it, and I was going to have to basically build it anyways.
-    - content: Over the course of two years I had three separate clients ask me to put a "social media feed" on to their sites. For those who don't know what that is, it's basically all of their posts from their various business-related social media posts in a single location. Doing this manually would obviously be a huge pain in the ass (you'd have toupdate the website every time you tweet.
+    - content: Over the course of two years I had three separate clients ask me to put a "social media feed" on to their sites. For those who don't know what that is, it's basically all of their posts from their various business-related social media posts in a single location. Doing this manually would obviously be a huge pain in the ass (you'd have to update the website every time you tweet.
     - content: When my first client asked me to do this, I immediately googled <strong><em>Social Media Feed</em></strong>.
     - content: I found a service called <strong>Tint</strong>. Tint was great, it did exactly what I wanted it to do, you'd enter in your social media account names, copy and paste some code on to your site and <em>voila</em> you had a social media feed on your site. Best of all Tint cost $10 a month.
     - content: Tint did all the heavy lifting for you, it connected to the social media sites (which can be a surprising pain in the ass, and each one is different), and automatically pulled in the new posts for you, so once you embedded it you didn't have to do anything after that.
@@ -81,9 +81,9 @@
     - Backbone
   image: coven.jpg
   paragraphs:
-    - content: Coven is a simple web app and also a Google Chrome Extension that turns your new tab screen into a list of all that days programming related news.
+    - content: Coven is a simple web app and a Google Chrome Extension that turns your new tab screen into a list of all that days programming related news.
     - content: I came across an extension called <a href='http://usepanda.com/app/'>Panda</a> that was for designers, it had design related news and inspiration.
-    - content: I loved the idea of Panda but I wanted to change a few things. First, I wanted the news to be targeted towards developers, not designers. Secondly, I wanted to be able to see all the news from the various sources in one place (with Panda you can only show one source at a single time). Thirdly I wanted to do away with the inspiration section. Us developers don't need inpiration.
+    - content: I loved the idea of Panda but I wanted to change a few things. First, I wanted the news to be targeted towards developers, not designers. Secondly, I wanted to be able to see all the news from the various sources in one place (with Panda you can only show one source at a single time). Thirdly I wanted to do away with the inspiration section. Us developers don't need inspiration.
     - content: So I built Coven over the course of a week or so. It was my first Chrome Extension, which was interesting. I also built it in two parts, a Rails backed API Service that polls the news sources and pulls in new articles and a front-end built using Middleman, a static site generator.
     - content: I've also opened sourced both parts the <a href='https://www.github.com/goddamnyouryan/coven-api'>API</a> and the <a href='https://www.github.com/goddamnyouryan/coven'>Front End</a>.
     - content: It's certainly not the prettiest thing I've ever built but it gets the job done. I use the Chrome Extension every day.
