@@ -114,7 +114,7 @@
   paragraphs:
     - content: Over the years I have built almost countless sites for Production Companies (don't ask me why, it just happened). Sons and Daughters was the first, and my personal favorite.
     - content: When I originally quoted them I was planning on building the site in Rails. Right as I was just about to start building their IT guy got in contact with me to let me know that they needed the site done in PHP so they could host it on their servers. This was back in 2008 or so when I didn't know any better, so I agreed, despite not being especially good at PHP (I never bothered to get really good because I didn't like it and rarely used it outside of wordpress).
-    - content: I ended up building them an entire CMS from scratch in PHP so they could add videos and directors without my input. Unfortunately they IT guy insisted on hosting everything, including the video files on their servers, so it's not as it would have been if I had used Amazon CloudFront as a CDN.
+    - content: I ended up building them an entire CMS from scratch in PHP so they could add videos and directors without my input. Unfortunately the IT guy insisted on hosting everything, including the video files on their servers, so it's not as it would have been if I had used Amazon CloudFront as a CDN.
     - content: So technology-wise it's nothing exciting and not playing to my strengths, but I'm still incredibly happy with how the design and everything else turned out.
 
 - name: goddamnyouryan
