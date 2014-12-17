@@ -86,6 +86,22 @@ activate :sync do |sync|
   sync.gzip_compression = true
 end
 
+# Activate `middleman s3_sync`
+activate :s3_sync do |s3_sync|
+  s3_sync.bucket = ENV['S3_BUCKET']
+  s3_sync.region = 'us-east-1'
+  s3_sync.aws_access_key_id = ENV['S3_ACCESS_KEY']
+  s3_sync.aws_secret_access_key = ENV['S3_SECRET_KEY']
+  s3_sync.delete = true
+  s3_sync.prefer_gzip = true
+  s3_sync.path_style = true
+  s3_sync.reduced_redundancy_storage = false
+  s3_sync.acl = 'public-read'
+  s3_sync.encryption = false
+  s3_sync.prefix = ''
+  s3_sync.version_bucket = false
+end
+
 # enable `middleman invalidate`
 activate :cloudfront do |cf|
   cf.access_key_id = ENV['S3_ACCESS_KEY']
