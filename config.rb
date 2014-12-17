@@ -75,17 +75,6 @@ end
 
 activate :dotenv
 
-# Activate `middleman sync`
-activate :sync do |sync|
-  sync.fog_provider = 'AWS'
-  sync.fog_directory = ENV['S3_BUCKET']
-  sync.fog_region = 'us-east-1'
-  sync.aws_access_key_id = ENV['S3_ACCESS_KEY']
-  sync.aws_secret_access_key = ENV['S3_SECRET_KEY']
-  sync.existing_remote_files = 'delete'
-  sync.gzip_compression = true
-end
-
 # Activate `middleman s3_sync`
 activate :s3_sync do |s3_sync|
   s3_sync.bucket = ENV['S3_BUCKET']
@@ -109,6 +98,11 @@ activate :cloudfront do |cf|
   cf.distribution_id = ENV['CLOUDFRONT_ID']
 end
 
+# invalidate files automatically with s3_sync
+after_s3_sync do |files_by_status|
+  invalidate files_by_status[:updated]
+end
+
 ###
 # Gem
 ###
@@ -124,6 +118,9 @@ configure :build do
 
   # Minify Javascript on build
   activate :minify_javascript
+
+  # generate gzipped files
+  activate :gzip
 
   # Enable cache buster
   # activate :asset_hash
