@@ -1,7 +1,7 @@
 #contact
   h2 Fill out this form or just email me at #{link_to 'ryan@goddamnyouryan.com', 'mailto:ryan@goddamnyouryan.com'}
 
-  = form_tag '//forms.brace.io/ryan@goddamnyouryan.com' do
+  = form_tag '//formspree.io/ryan@goddamnyouryan.com' do
     = hidden_field_tag '_subject', value: 'Contact Form'
     = text_field_tag '_gotcha', style: 'display: none;'
 

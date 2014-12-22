@@ -18,6 +18,8 @@ okay:
   - Ember
   - Angular
   - Node
+  - Gulp
+  - Grunt
   - Go
   - C
   - Design
@@ -30,5 +32,7 @@ learning:
   - Objective-C
   - Rust
   - Erlang
+  - React
+  - Polymer
   - Drawing
   - Functional Programming
