@@ -30,6 +30,10 @@ nav ul, ul.technology {
     &:last-of-type {
       margin: 0;
     }
+
+    @include media(400px) {
+      margin: 0 20px 0 0;
+    }
   }
 
   a {
