@@ -1,7 +1,7 @@
 ---
 title: Guide To Japan
-image: http://assets.goddamnyouryan.com/blog/asia/delhi-art.jpg
-light: true
+image: http://assets.goddamnyouryan.com/blog/asia/guide-to-japan.jpg
+light: false
 date: 2016-06-28
 ---
 

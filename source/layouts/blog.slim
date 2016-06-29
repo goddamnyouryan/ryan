@@ -13,7 +13,7 @@ html
 
   body class="#{blog_lightness} blog #{header_image?}"
     - if has_image?
-      = image_tag current_article.metadata[:page]['image']
+      = image_tag current_article.metadata[:page]['image'], class: 'header-image'
     header.main
       h1 = link_to 'God Damn You Ryan', '/blog'
       h2 The Blog of #{link_to 'Ryan MacInnes', '/'}. Web developer and cool dude.

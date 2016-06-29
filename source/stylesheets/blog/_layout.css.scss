@@ -27,6 +27,11 @@ header.main {
   }
 }
 
+img.header-image {
+  display: block;
+  margin: 0 auto;
+}
+
 body.light header.main {
   color: $background;
 
