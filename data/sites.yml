@@ -9,10 +9,10 @@
     - Stripe
   image: payote.jpg
   paragraphs:
-    - content: Juicer started as a sideproject in 2014 but very quickly became a fulltime gig. Our customer base exploded over the next 4 years and we had to deal with a lot of customer service issues.
+    - content: Juicer started as a side project in 2014 but very quickly became a full time real company. Our customer base exploded over the next 4 years and we had to deal with a lot of customer service issues.
     - content: One of the most prevalent and annoying issues was dealing with customer invoices. Firstly, many of our customers were in the EU, and they needed custom invoices to be able to expense their costs to their business. Specifically they needed to have their companies VAT number on their invoice.
     - content: At Juicer we just used the built in Stripe receipts. This would automatically send our customers a simple receipt whenever their account got charged (usually monthly). The problem was, Stripe does not allow you to customize these receipts at all. So for all of our EU customers we would have to manually create an invoice for them every month that contained their business information. This was no problem at first, but quickly grew to the point that we were manually creating 10 or more invoices every day. While each one wasn't hard, they added up, not to mention all the calendar reminder logic we had to set up to make sure everyone got their invoice.
-    - content: So I built a basic version of payote, that simply allowed us to set up custom invoices on our Stripe customers, and would automatically email it to them when their payment went through.
+    - content: So I built a basic version of Payote, that simply allowed us to set up custom invoices on our Stripe customers, and would automatically email it to them when their payment went through.
     - content: The next problem with Stripe invoices was that users couldn't view their own invoices. If they lost one of their Stripe receipts there was no easy way for them to view their past invoices without contacting us, and having us re-email it to them. So the second phase of Payote was born; an embeddable invoice viewer.
     - content: This allowed customers to view all of their past invoices, change the billing email, and customize the data-field. We no longer had to deal with customer invoice issues, they could handle everything on their own, saving us and them time.
 - name: Minotaur
@@ -28,8 +28,8 @@
   image: minotaur.jpg
   paragraphs:
     - content: At the end of 2015 Rdio shut down. For those of you who don't know, Rdio was a online streaming service, a la Spotify or Apple Music. I was super bummed about it. Rdio was beautiful, easy to use and had the best recommendation features of all the streaming music services I had tried.
-    - content: When it shut down I went on a bit of a rampage, trying all the other music streaming platforms. Spotify, Apple Music, Google Play, even Tidal. None of them worked in the way I wanted them too. They were all overly complicated, confusing, ugly, or in some cases, appalingly bad.
-    - content: It wasn't until several months later, of dealing with super unsatisfying music playback, that I had the realization that I could create my own service. YouTube has basically all the music I ever listen to on it, the one downside is that it's not exactly built to be a music player. But combined with data from Spotify, I could mix those two together and create my own streaming service without having to deal with all the rights management that comes with licencing music. Minotaur was born.
+    - content: When it shut down I went on a bit of a rampage, trying all the other music streaming platforms. Spotify, Apple Music, Google Play, even Tidal. None of them worked in the way I wanted them too. They were all overly complicated, confusing, ugly, or in some cases, appallingly bad.
+    - content: It wasn't until several months later, of dealing with super unsatisfying music playback, that I had the realization that I could create my own service. YouTube has basically all the music I ever listen to on it, the one downside is that it's not exactly built to be a music player. But combined with data from Spotify, I could mix those two together and create my own streaming service without having to deal with all the rights management that comes with licensing music. Minotaur was born.
     - content: I worked on Minotaur fiendishly for about a month, approaching an MVP and really happy with the direction it was taking (taking cues from the simplicity of Rdio). When I was around 90% done I came to the realization that there was no way for me to play music offline, or in an app form; since all the music comes from YouTube, there was no way to download those tracks to your phone, nor is there a way to play YouTube videos in the background on your phone. Between that and Juicer getting busier, I gave up. The project sat at 90% complete for 2 years.
     - content: Then in early 2018 I revisited it. I still wasn't satisfied with any of the streaming music services out there (though I had become begrudgingly accustomed to Spotify) and I found myself often thinking about Minotaur. I decided that I wouldn't worry too much about the mobile aspects of Minotaur, 99% of the time I was listening to music it was while I was on my laptop with an internet connection anyways. I gritted my teeth and decided to get Minotaur to an MVP level at least.
     - content: There's still a lot of work to be done to get it to the level of Rdio, but for an MVP it still works shockingly well! I'm using it as my main day to day music player.
@@ -63,7 +63,7 @@
                  <li>Prettier! (Juicer is probably the most beautiful thing I've ever designed.)</li>
                  <li>Moderation, Filtering, Analytics</li>
                </ul>
-    - content: <img src='/images/juicer-3.jpg' class='u-pull-right' alt='Juicer Feed' /> Juicer is also probably one of the best looking sites I've ever designed. It's built in Ruby on Rails, responsive and all that. I manually pull in the posts from 10 different social media sites using libraries I buily myself. I handle payment processing with Stripe. I also spent a long time on SEO.
+    - content: <img src='/images/juicer-3.jpg' class='u-pull-right' alt='Juicer Feed' /> Juicer is also probably one of the best looking sites I've ever designed. It's built in Ruby on Rails, responsive and all that. I manually pull in the posts from 15 different social media sites using libraries I built myself. I handle payment processing with Stripe. I also spent a long time on SEO.
     - content: Tint is crazy expensive for what they offer, and I don't think that's okay. There are tons of people out there who would like to have a social media feed on their site but definitely cannot afford $500 a month (hell, you can get a decent apartment in the midwest for that much). Juicer is for them.
 
 - name: Summerland
@@ -82,7 +82,7 @@
     - content: Summerland is a subscription based food delivery service. Essentially you sign up and every week you get a box of vegetables and fruit delivered straight to your door. It's kind of like a <a href='http://en.wikipedia.org/wiki/Community-supported_agriculture'>CSA</a> box, but you can personalize it, and you don't have to go pick it up yourself.
     - content: Summerland was an interesting project for many reasons. From the consumer facing side, it's your fairly basic e-commerce website. Add some products to your account, and pay!
     - content: There's some twists on that, from a programming perspective. First of all, customers don't just sign up for a one time delivery, they get a box every week (or two weeks, or monthly, or just once!) The logic involved to make sure that everyone get's their delivery when they are supposed to is much more complex than your average e-commerce site.
-    - content: Secondly, every box is different. It's a farm to frontdoor style solution, that means whatever the farms are currently offering as a crop is what comes in your box. So of course there has to be a much more complex inventory system on the backend to handle the weekly variances in product.
+    - content: Secondly, every box is different. It's a farm to front-door style solution, that means whatever the farms are currently offering as a crop is what comes in your box. So of course there has to be a much more complex inventory system on the backend to handle the weekly variances in product.
     - content: Thirdly, Summerland is local to Los Angeles, and they handle deliveries in house. So the backend also contains a driver routing application that allows Summerland's owners to get the most efficient route for the drivers each day. No two days deliveries are ever the same, and a variable number of drivers are working on a given day, so as you might imagine this was also very difficult to program but it resulted in saving the company a whole lot of time and effort.
     - content: Overall a huge amount of effort went in to building a robust and helpful admin section for Summerland. I couldn't have done it without my friend and UI/UX expert <a href='http://www.yeedor.com'>Doris Yee</a>.
 
@@ -101,7 +101,7 @@
     - content: I worked at GOOD for two years as a Software Engineer.
     - content: During my tenure we transformed the site from an online magazine into a "Social Network for Social Good". It has since reverted back into an online magazine, for the most part.
     - content: I left GOOD in December 2013 to travel around Asia for 5 months. You can read all about my travels on my <a href='/blog'>Blog</a>.
-    - content: We had an amazing product team at GOOD. It's where I learned how to really scale a Rails site for high traffic. I learned to love Backbone.js. I learned that code doesn't have to just be functional, it can be beautiful as well. I learned that it's possible to be friend-friends with your co-workers, not just work-friends.
+    - content: We had an amazing product team at GOOD. It's where I learned how to really scale a Rails site for high traffic. I learned to love backbone.js. I learned that code doesn't have to just be functional, it can be beautiful as well. I learned that it's possible to be friend-friends with your co-workers, not just work-friends.
     - content: I also met my girlfriend <a href='http://www.mushaboom.net'>Allison</a> there, so that's cool too.
 
 - name: Coven
@@ -134,7 +134,7 @@
     - Backbone
   image: tomorrow.jpg
   paragraphs:
-    - content: Tomorrow Magazine was put together by a bunch of my former co-workers at <a href='http://www.good.is'>GOOD</a> as a one off magazine funded through kickstarter.
+    - content: Tomorrow Magazine was put together by a bunch of my former co-workers at <a href='http://www.good.is'>GOOD</a> as a one off magazine funded through Kickstarter.
     - content: Together with my designer friend <a href='http://www.reneesolorzano.com'>Renee Solorzano</a> we designed and built the site in two weeks.
     - content: Compared to a lot of my other work it's pretty straightforwards from a programming perspective, it's basically an online magazine. It's mostly impressive because a) We did the whole thing in two weeks and b) It's fucking gorgeous. Of course, I had little to do with that, it's almost entirely due to Renee that it's so beautiful.
 
@@ -148,7 +148,7 @@
   image: sons-and-daughters.jpg
   paragraphs:
     - content: Over the years I have built almost countless sites for Production Companies (don't ask me why, it just happened). Sons and Daughters was the first, and my personal favorite.
-    - content: When I originally quoted them I was planning on building the site in Rails. Right as I was just about to start building their IT guy got in contact with me to let me know that they needed the site done in PHP so they could host it on their servers. This was back in 2008 or so when I didn't know any better, so I agreed, despite not being especially good at PHP (I never bothered to get really good because I didn't like it and rarely used it outside of wordpress).
+    - content: When I originally quoted them I was planning on building the site in Rails. Right as I was just about to start building their IT guy got in contact with me to let me know that they needed the site done in PHP so they could host it on their servers. This was back in 2008 or so when I didn't know any better, so I agreed, despite not being especially good at PHP (I never bothered to get really good because I didn't like it and rarely used it outside of Wordpress).
     - content: I ended up building them an entire CMS from scratch in PHP so they could add videos and directors without my input. Unfortunately the IT guy insisted on hosting everything, including the video files on their servers, so it's not as it would have been if I had used Amazon CloudFront as a CDN.
     - content: So technology-wise it's nothing exciting and not playing to my strengths, but I'm still incredibly happy with how the design and everything else turned out.
 

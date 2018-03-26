@@ -1,6 +1,5 @@
 rule:
   - Ruby on Rails
-  - Middleman
   - HTML
   - CSS
   - Javascript
