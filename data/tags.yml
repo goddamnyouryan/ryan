@@ -3,24 +3,16 @@ rule:
   - Middleman
   - HTML
   - CSS
-  - Sass
   - Javascript
-  - Backbone
-  - Wordpress
   - Heroku
   - AWS
-  - APIs
-  - Tmux
-  - vim
+  - Scaling
 
 okay:
-  - Python
-  - Ember
-  - Angular
+  - React
   - Node
-  - Gulp
-  - Grunt
   - Go
+  - Python
   - C
   - Design
   - UI / UX
@@ -32,7 +24,5 @@ learning:
   - Objective-C
   - Rust
   - Erlang
-  - React
-  - Polymer
   - Drawing
   - Functional Programming

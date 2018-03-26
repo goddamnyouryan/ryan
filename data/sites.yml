@@ -1,5 +1,40 @@
+- name: Payote
+  url: https://payote.co
+  technology:
+    - Ruby on Rails
+    - HTML5
+    - CSS
+    - Sass
+    - Javascript
+    - Stripe
+  image: payote.jpg
+  paragraphs:
+    - content: Juicer started as a sideproject in 2014 but very quickly became a fulltime gig. Our customer base exploded over the next 4 years and we had to deal with a lot of customer service issues.
+    - content: One of the most prevalent and annoying issues was dealing with customer invoices. Firstly, many of our customers were in the EU, and they needed custom invoices to be able to expense their costs to their business. Specifically they needed to have their companies VAT number on their invoice.
+    - content: At Juicer we just used the built in Stripe receipts. This would automatically send our customers a simple receipt whenever their account got charged (usually monthly). The problem was, Stripe does not allow you to customize these receipts at all. So for all of our EU customers we would have to manually create an invoice for them every month that contained their business information. This was no problem at first, but quickly grew to the point that we were manually creating 10 or more invoices every day. While each one wasn't hard, they added up, not to mention all the calendar reminder logic we had to set up to make sure everyone got their invoice.
+    - content: So I built a basic version of payote, that simply allowed us to set up custom invoices on our Stripe customers, and would automatically email it to them when their payment went through.
+    - content: The next problem with Stripe invoices was that users couldn't view their own invoices. If they lost one of their Stripe receipts there was no easy way for them to view their past invoices without contacting us, and having us re-email it to them. So the second phase of Payote was born; an embeddable invoice viewer.
+    - content: This allowed customers to view all of their past invoices, change the billing email, and customize the data-field. We no longer had to deal with customer invoice issues, they could handle everything on their own, saving us and them time.
+- name: Minotaur
+  url: https://minotaur.fm
+  technology:
+    - Ruby on Rails
+    - HTML5
+    - CSS
+    - Sass
+    - Javascript
+    - Marionette
+    - React
+  image: minotaur.jpg
+  paragraphs:
+    - content: At the end of 2015 Rdio shut down. For those of you who don't know, Rdio was a online streaming service, a la Spotify or Apple Music. I was super bummed about it. Rdio was beautiful, easy to use and had the best recommendation features of all the streaming music services I had tried.
+    - content: When it shut down I went on a bit of a rampage, trying all the other music streaming platforms. Spotify, Apple Music, Google Play, even Tidal. None of them worked in the way I wanted them too. They were all overly complicated, confusing, ugly, or in some cases, appalingly bad.
+    - content: It wasn't until several months later, of dealing with super unsatisfying music playback, that I had the realization that I could create my own service. YouTube has basically all the music I ever listen to on it, the one downside is that it's not exactly built to be a music player. But combined with data from Spotify, I could mix those two together and create my own streaming service without having to deal with all the rights management that comes with licencing music. Minotaur was born.
+    - content: I worked on Minotaur fiendishly for about a month, approaching an MVP and really happy with the direction it was taking (taking cues from the simplicity of Rdio). When I was around 90% done I came to the realization that there was no way for me to play music offline, or in an app form; since all the music comes from YouTube, there was no way to download those tracks to your phone, nor is there a way to play YouTube videos in the background on your phone. Between that and Juicer getting busier, I gave up. The project sat at 90% complete for 2 years.
+    - content: Then in early 2018 I revisited it. I still wasn't satisfied with any of the streaming music services out there (though I had become begrudgingly accustomed to Spotify) and I found myself often thinking about Minotaur. I decided that I wouldn't worry too much about the mobile aspects of Minotaur, 99% of the time I was listening to music it was while I was on my laptop with an internet connection anyways. I gritted my teeth and decided to get Minotaur to an MVP level at least.
+    - content: There's still a lot of work to be done to get it to the level of Rdio, but for an MVP it still works shockingly well! I'm using it as my main day to day music player.
 - name: Juicer
-  url: http://www.juicer.io
+  url: https://www.juicer.io
   technology:
     - Ruby on Rails
     - HTML5
