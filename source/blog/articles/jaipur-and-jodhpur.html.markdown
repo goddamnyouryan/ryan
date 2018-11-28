@@ -1,6 +1,6 @@
 ---
 title: Jaipur and Jodhpur
-image: http://assets.goddamnyouryan.com/blog/asia/jaipur-fort-tree.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/jaipur-fort-tree.jpg
 light: true
 date: 2014-02-02
 ---
@@ -23,9 +23,9 @@ When we were in Agra we asked the front desk guy to help us book a train ticket 
 
 We meet Sunny in front of the hotel and have him drive us to three different forts. Jaipur has three forts above it in the mountains (for some reason) and they're all relatively close together, we visited them in reverse order of popularity and I liked each one progressively less. The first one offered some spectacular views of the city that don't translate too well to photographs.
 
-![](http://assets.goddamnyouryan.com/blog/asia/jaipur-mandir.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/jaipur-museum.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/jaipur-fort-trees.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/jaipur-mandir.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/jaipur-museum.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/jaipur-fort-trees.jpg)
 
 Between every fort Sunny would try to get us to go get a beer or visit his friends gem factory or something of the like. These are all common scams and we forcefully declined and he eventually relented. For some reason in Jaipur you continually get the feeling that people are trying to cheat you. Maybe India as a whole. It's made me extremely good at haggling though which is useful.
 
@@ -43,11 +43,11 @@ We were met at the train station by a tiny Nepalese man who was there to lead us
 
 The following day we went to the train ticket office across the street to get our overnight train tickets to Delhi. Luckily they have some reserved beds for tourists in 2A of which we snatched up the last two. Then we headed to yet again another fort. Jodhpur only has one fort and it's way better than all of Jaipurs' forts combined. It [towers over the city](http://upload.wikimedia.org/wikipedia/commons/c/c4/Mehrangarh_Fort_5174627.jpg) on a huge cliff. Once we got in we realized it was actually organized! Like there's a path through it! All the forts in Jaipur are just totally open, which is cool but can be boring after you see your 50th identical room. The Jodhpur fort also offers free audio tours which we took advantage of. Between the headsets and the camera passes dangling from our wrists Michelle and I looked like proper tourists.
 
-![](http://assets.goddamnyouryan.com/blog/asia/jodhpur-fort-painting.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/jodhpur-fort-painting.jpg)
 
 After we saw the whole of the palace we walked along the wall and took in the city from above. From there we could see a clock tower with tons of people at it; we had no idea what it was but we decided to head there next.
 
-![](http://assets.goddamnyouryan.com/blog/asia/jodhpur-fort-blue-city.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/jodhpur-fort-blue-city.jpg)
 
 When we arrived we stopped at a little shop and bought some Black Horse cola that my friend Grant told me about. It's made in Jodhpur and is only available here. It was pretty tasty, like fresher coke, but it hilariously comes in recycled bottles, mine was covered in scratches.
 
@@ -57,10 +57,10 @@ We wandered around the bazaars a bit after we were sated and then headed back to
 
 The next day we caught a car out to the Thar desert, which is a huge desert that reaches all the way into Pakistan. From there we met our guide who loaded us onto two camels.
 
-![](http://assets.goddamnyouryan.com/blog/asia/jodhpur-desert-camels.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/jodhpur-desert-camels.jpg)
 
 When we signed up for a camel ride through the desert I anticipated we'd get to ride the camels for about 20 minutes. I couldn't have been more wrong; in total we were on them for about six hours! Our guide took us to his house out in the middle of the desert where he and his wife made us lunch and chai. The lunch was a delicious curry / chapati / rice / veg mix. Every time I cleared my plate he filled it up again. By the time I got up the nerve to tell him "no more, I'm full." I had eaten about 4 plates worth and 8 chapatis. We walked around his land and house a bit (and met his goats) before heading back onto the camels for another 3 or 4 hours and then drove back into town.
 
-![](http://assets.goddamnyouryan.com/blog/asia/jodhpur-desert-family.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/jodhpur-desert-family.jpg)
 
 Riding a camel through the desert for 6 hours is surprisingly exhausting (maybe not that surprising) so Michelle and I were having trouble both sitting down (my first experience with saddle soreness) and staying awake so we called it an early night. Luckily our train to Delhi was that evening so we headed to the train station and waited for our train (which was 2 hours late). We met up with Michelle's brothers friends at the train station (who were also headed to Delhi, though we never saw them again after the train). Eventually we made it to hour beds and collapsed into them. 10 hours later we woke up in Delhi.

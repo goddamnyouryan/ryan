@@ -1,6 +1,6 @@
 ---
 title: Delhi
-image: http://assets.goddamnyouryan.com/blog/asia/delhi-art.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/delhi-art.jpg
 light: true
 date: 2014-02-09
 ---
@@ -19,17 +19,17 @@ The fact that Delhi has a metro is amazing. It's a huge sprawling city, much lik
 
 Michelle and I visited a bunch of different sites in Delhi. The first we checked out was a [Bahá'í](http://en.wikipedia.org/wiki/Bah%C3%A1) place of worship called the Lotus Temple. It was beautiful. We also visited Humayun's Tomb, which is sort of the precursor to the Taj Mahal by 100 years. It was beautiful as were the grounds. Finally we saw the biggest mosque in India and we visited a Modern Art Museum that had some cool exhibits. NEVERTHELESS! A lot of the sites are really lame too. We saw the India gate which is like a crappy version of the Arc de Triomphe, and corn-ily lit up with Indian flag neon light colors. Then we saw the house of the president and the Indian parliament buildings (Indian government LOL) that were also super corny looking. Even the mosque looked like basically every other site we had seen in India at that point.
 
-![](http://assets.goddamnyouryan.com/blog/asia/delhi-lotus-temple.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/delhi-lotus-temple.jpg)
 
 ## The People:
 
 Some of the nicest friendliest, most helpful folks I've met in India. My friend Grant from New York City arrived in India the day after Michelle left (to settle their permanently!). He took Nick, Mary and myself out to a nice lunch in South Delhi, then showed us a beautiful park and took us to drink the most delicious lassi in the city in Nehru Place, which is the electronics district. His girlfriend, Kassia came with us to lunch and she was lovely. The next day Nick and Mary started their long trip back to the US and Grant and Kassia took me to a street art party where we drank free beer and had a dinner of appetizers. I met lots of artist characters; all of whom were extremely nice. They then took me to a party where I met lots of other nice expatriates. HOWEVER.... most random people I met on the street were awful, almost every single one of them would feign friendliness as a means to take advantage of me. An example: when I was looking for my second hotel (the rats nest) I was wandering through a series of narrow alleyways following some cryptic signs. An old man noticed me and asked "where are you trying to go?" I told him the name of my hotel and he said "oh that's right over here, I'll show you". Having been in India for quite some time I was wary but he seemed harmless enough. He showed me through an maze of alleys (I later discovered we walked right by my hotel) coming out on a main road, we walked down it a bit and I said "I don't think it's down this far" to which he replied "oh, that hotel is closed, I'll take you to a tourist office where we can book you a new hotel" (this is a common scam in India, the "tourist office" is on the payroll of several shitty but extremely overpriced hotels). I told him "no way" SF headed back the way I came. Eventually I found it. To be fair, I had already experienced many people trying to scam me, and I knew it was going to happen often coming into India, but eventually you just get tired of people trying to ineptly pull one over on you 20 times a day. And it's more than a little disheartening to not meet a single genuine person.
 
-![](http://assets.goddamnyouryan.com/blog/asia/delhi-humayuns-tomb.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/delhi-humayuns-tomb.jpg)
 
 By the time I was in my final hotel I was ready to leave India, but since I was forced to book my departing flight ahead of time I had to wait, biding my time. I hung out with Grant every day and worked the rest of the time (the one redeeming quality of my hotel was it had surprisingly fast and stable internet).
 
-![](http://assets.goddamnyouryan.com/blog/asia/delhi-mosque.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/delhi-mosque.jpg)
 
 On my last night in Delhi Grant and I caught a Bollywood movie in theaters called "Jai Ho". If you've never seen a Bollywood movie before I highly recommend you check one out on Netflix, it's an experience. It doesn't matter which one, they all basically have the same elements. Jai Ho was purportedly an action movie but really it was all genres in one. Comedy, Drama, Action, Musical, it had it all. The fight scenes were amazing, it was just the main character punching a million dudes and then cut to each of them flying through some sort of pane of glass, be that a car windshield, a telephone booth, a carnival game, you name it. Here's a hilarious [musical number](http://www.youtube.com/watch?v=QtsV6I_1wb4 ) from it. The main dude is that big beefy dude which is the best; the most famous male actor in India is a big beefcake Guido. There were subplots happening left and right, all of which conflicts got solved within 5 minutes. Including a girl with no arms being unable to take a test because she has no arms, and Jai's mother needing a new kidney. Also whenever there were jokes there were slide whistle noises, no joke. And it was all in Hindi, but it was dubbed, also in Hindi, because I guess they can't be bothered to record sound on location? They did a terrible job syncing, all of which made the experience that much more enjoyable. Fortunately Hindi speakers tend to pepper in English words every 10 or so; thankfully the plot was dead simple too so I was never too confused about what was going on.
 

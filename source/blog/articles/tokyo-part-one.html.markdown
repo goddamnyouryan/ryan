@@ -1,6 +1,6 @@
 ---
 title: Tokyo Part One
-image: http://assets.goddamnyouryan.com/blog/asia/tokyo-landscape.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/tokyo-landscape.jpg
 date: 2014-04-12
 ---
 
@@ -16,21 +16,21 @@ The following day I walked down to Ahikabara which was about an hour from my hos
 
 After that I walked down to the old imperial gardens. There used to be a big castle here but at some point it burned down and they never bothered to rebuild it so it's basically a huge garden surrounded my an impressive moat. It was here that I was finally able to articulate my love of Japanese Landscape Architecture, it's so simple: rocks, grass, trees, bushes. They don't fuck around with flowers or elaborate displays. That being said, totally unintentionally, I ended up in Japan during the Cherry Blossom...blossoming. They are all over the place and super beautiful.
 
-![](http://assets.goddamnyouryan.com/blog/asia/tokyo-sakura.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/tokyo-sakura.jpg)
 
 That night for dinner I had a bowl of ramen. If you've never had Japanese ramen you're probably imagining the $0.40 cup of noodles you used to eat when you were super broke in college. However, like all food-related things, japan takes ramen very seriously, and it shows, it's goddamned delicious.
 
-![](http://assets.goddamnyouryan.com/blog/asia/tokyo-ramen.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/tokyo-ramen.jpg)
 
 After I ate my ramen I had to go back and move hostels, my hostel was only free for one night, so that night I had to move to a capsule hotel. Honestly it wasn't that much different from a hostel: communal relaxation rooms/bathrooms, and the capsules are very similar to bunk beds. Mine's mattress however was extremely hard, even for Asian standards.
 
-![](http://assets.goddamnyouryan.com/blog/asia/tokyo-capsule.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/tokyo-capsule.jpg)
 
 I hadn't been on a hike in several days at this point and I was missing it. Unfortunately Tokyo doesn't have any big mountains smack in the middle of it like Hong Kong so I had to improvise a bit. But first, a little bit about trains in Tokyo:
 
 There's no doubt, Tokyo has the best and most extensive subway system in the world. Seriously, take a look at [the map](http://www.bento.com/pix/subway/subway5.gif). As you might imagine, it can be pretty overwhelming, at least 5 different companies own trains/tracks and it's not always obvious who owns what and if you can transfer etc etc. luckily you can buy a rechargeable multipass that works on all of them; and google maps will give you solid instructions. JR is the national rail, and the most famous of all the train lines in Tokyo is the JR Yamanote loop. It's above ground, and it passes by basically all of the most important location in inner Tokyo. The whole Yamanote loop is about 50km. I decided to follow it.
 
-![](http://assets.goddamnyouryan.com/blog/asia/tokyo-graffiti.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/tokyo-graffiti.jpg)
 
 Obviously I didn't actually walk on the tracks, but I followed nearby as best I could; it was easier said than done in certain locations, and other parts I deliberately went astray because it looked more interesting. I started at 9:30am and finished almost exactly at 9:30pm. It turns out I walked just over 27 miles, which officially made that day the furthest I've ever traveled in a single day using only my own body (before that it was the 2011 LA Marathon). Halfway through I stopped at another Ramen joint that my friend Nick said was his favorite ever. It was damn good. I slept like a rock that night despite my terrible capsule bed.
 

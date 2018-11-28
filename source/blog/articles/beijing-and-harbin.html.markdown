@@ -1,6 +1,6 @@
 ---
 title: Beijing and Harbin
-image: http://assets.goddamnyouryan.com/blog/asia/beijing-forbidden-city.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/beijing-forbidden-city.jpg
 light: true
 date: 2014-01-20
 ---
@@ -33,7 +33,7 @@ The Ming Tombs were cool but they are basically a smaller, less busy version of 
 
 The Great Wall was awesome, we hiked all over it and there was like no one there, we spent about 2 hours walking all over it, which was nice, and tiring, which was great because I was plumping up on Beijing food with Justin feeding me.
 
-![](http://assets.goddamnyouryan.com/blog/asia/beijing-great-wall.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/beijing-great-wall.jpg)
 
 The restaurant was pretty dece too, thought they ordered us food that Americans would like, one of our dishes was Kung Pao chicken (which, granted was a lot better than kung pao in the US).
 
@@ -51,8 +51,8 @@ Harbin, apart from the cold, was great. I went straight to bed at our hotel when
 
 That evening we went to the ice festival, which is almost impossible to describe, that's how awesome it is. I wish I could adequately describe the scale, there are huge, I mean HUGE structures built entirely out of ice, I'm talking like 10 story buildings tall. There's a recreation of a cathedral that you can walk around on, bridges, slides, you name it. At night everything is lit up with some crazy looking colored lights, it's like being in a frozen acid trip. It was great, totally worth the trip way the hell up there (and the sleeper train we took back to Beijing that night...Justin stayed one more night in Harbin the headed back to Jillin).
 
-![](http://assets.goddamnyouryan.com/blog/asia/harbin-from-above.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/harbin-glowing-wall.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/harbin-from-above.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/harbin-glowing-wall.jpg)
 
 We got back to Beijing the next morning and took a nice long walk to a flea market that took us through a big park and involved lots of delicious rest stops to eat baked goods. The flea market had tons of amazing stuff and made me wish I had an apartment to furnish. Afterwards we headed back to the hotel and took a load off.
 

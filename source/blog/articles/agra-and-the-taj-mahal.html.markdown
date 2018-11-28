@@ -1,6 +1,6 @@
 ---
 title: Agra and the Taj Mahal
-image: http://assets.goddamnyouryan.com/blog/asia/taj-mahal-entrance-centered.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/taj-mahal-entrance-centered.jpg
 light: true
 date: 2014-01-23
 ---
@@ -13,8 +13,8 @@ We spent the morning dealing with our next travel plans (Michelle and I were tak
 
 Not much can be said about it that won't ring hollow, it's super beautiful. It's a tomb, for some reason I thought it was a palace.  It's got two huge and beautiful red mosques on either side of it (that would be attractions in and of themselves if they weren't right next to the Taj). It was raining, and so my feet got completely soaked because of my broken right shoe, it made the Taj look even more fantastic. It truly is an amazing site to behold and made the whole nightmare trip to and from Agra worth it.
 
-![](http://assets.goddamnyouryan.com/blog/asia/taj-mahal-caligraphy.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/taj-mahal-mosque.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/taj-mahal-caligraphy.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/taj-mahal-mosque.jpg)
 
 When we booked our train tickets to Jaipur they mysteriously didn't have a time of departure on them. The guy at the front desk of the hotel insisted it left at 4:20, though Michelle found a website saying that it left at 6. We got there at 3:30 and of course the train leaves at 6, it turns out that today was the first day of the new schedule, just our luck.
 

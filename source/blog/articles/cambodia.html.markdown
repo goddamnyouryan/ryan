@@ -1,6 +1,6 @@
 ---
 title: Cambodia
-image: http://assets.goddamnyouryan.com/blog/asia/siam-reap-sky.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/siam-reap-sky.jpg
 light: true
 date: 2014-03-11
 ---
@@ -15,16 +15,16 @@ When going through customs I befriended two Americans and and Austrian and we al
 
 For the next three days I explored Angkor Wat. I bought a 3 day pass for $40 and rented a bike for the first 2 days to get out there. The ruins are spread across a huge area, and there are over 60 of them, so it's unfeasible to  see them all, even in 3 days. I can say though, without a doubt they are the most impressive and least boring cultural site I've ever seen in my life. Most of the temples are over 1000 years old. A trip to Cambodia is absolutely worth it, just to see Angkor Wat. Here's a few pictures I took in those first two days:
 
-![](http://assets.goddamnyouryan.com/blog/asia/siam-reap-faces.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/siam-reap-ryan.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/siam-reap-angkor-wat.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/siam-reap-faces.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/siam-reap-ryan.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/siam-reap-angkor-wat.jpg)
 
 The last day of my 3 days I hired a motorbike driver to take me to some of the more far flung temples. We visited "the ladies temple" which is about 50km outside of Siam Reap. We also went to another site that wasn't a temple at all, but a 2km hike up a jungle mountain. This doesn't sound too far but when it's 100 degrees out with 90% humidity it can be more that a bit difficult. Once you arrive at the too yours rewarded with a lovely stream and waterfall and lots of ancient Hindu carvings.
 
-![](http://assets.goddamnyouryan.com/blog/asia/siam-reap-rice.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/siam-reap-rice.jpg)
 
 The next day I took a bus to Phnom Penh, the capital of Cambodia. It was supposed to take 4 hours but seeing as Cambodia only has about 4 "highways" and this one was heavily under construction it took more like 8. Phnom Penh is much bigger and dirtier than Siam Reap but it's along the Mekong and has a lovely riverside. It was here that I visited the killing fields, one of over 300 mass graves/execution grounds from the Cambodian Genocide in the late 70s. I also visited the Genocide museum which is in an old school that was turned into a torture prison and then into a museum. As you might imagine this was a depressing day, your heart can't help but go out to all the wonderful, resilient Cambodian people.
 
-![](http://assets.goddamnyouryan.com/blog/asia/phnom-penh-skulls.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/phnom-penh-skulls.jpg)
 
 The following day I spent doing paperwork to get my Vietnamese visa, getting the visa, then relaxing. I enjoyed one last day in Cambodia and then I was off to Vietnam.

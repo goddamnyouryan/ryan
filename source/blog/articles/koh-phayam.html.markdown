@@ -1,6 +1,6 @@
 ---
 title: Koh Phayam
-image: http://assets.goddamnyouryan.com/blog/asia/koh-phayam-sunset.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/koh-phayam-sunset.jpg
 light: true
 date: 2014-02-11
 ---

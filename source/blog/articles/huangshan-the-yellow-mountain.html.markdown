@@ -1,6 +1,6 @@
 ---
 title: Huangshan (The Yellow Mountain)
-image: http://assets.goddamnyouryan.com/blog/asia/huangshan-mountains.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/huangshan-mountains.jpg
 date: 2014-01-18
 ---
 
@@ -16,7 +16,7 @@ For those that don't know (I certainly didn't before I got there, Huangshan tran
 
 The first bus takes you from the train station to a bus station. It's about an hour. Then you catch another hour long bus ride to the base of the mountain. When you get there you can either hike to the top or take a cable car. I opted to hike because a) I'm cheap and b) I hadn't done any real exercise since I left. If I had known what I was in for I probably would have changed my tune.
 
-![](http://assets.goddamnyouryan.com/blog/asia/huangshan-eastern-stairs.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/huangshan-eastern-stairs.jpg)
 
 Hiking up Huangshan involves stairs. Endless, endless amounts of stairs. It's basically 6km of stairs straight up the side of the mountain. It took me 3 or 4 hours to do, and between the altitude and my pack I was utterly exhausted by the time I got to the top. All I had had that day was some water and crackers that I bought from a store at the base of the mountain. Everyone complains about how expensive water is on the mountain, and it is, relative to everywhere else (10RMB or about $1.70) though still insanely cheap by US standards obviously.
 
@@ -28,21 +28,21 @@ When I get back to my room there's like 10 Chinese 18 year olds yelling, drinkin
 
 I woke up at 5:30am when the rest of my room did, everyone gets up this early on the mountain to watch the sunrise, which is supposed to be spectacular. On this particular morning it was fairly overcast so I was pretty underwhelmed.
 
-![](http://assets.goddamnyouryan.com/blog/asia/huangshan-sunrise.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/huangshan-sunrise.jpg)
 
 I had heard of a bridge on the mountain called the Fairy Bridge and I was determined to see it, then my plan was to hike down the mountain via the western route (I came up the eastern one). I expected it to be fairly straightforwards. I did those things but literally almost managed to kill myself in the process:
 
-![](http://assets.goddamnyouryan.com/blog/asia/huangshan-fairy-stairs.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/huangshan-fairy-stairs.jpg)
 
 First it was just confusing as fuck how to get to the fairy bridge. There's no signs and all the maps aren't to scale and most trails aren't on the maps at all (not to mention half of them are only in chinese). So by asking every park ranger I see I am finally able I make it to the bridge after about 2 hours (I set off at 8am).
 
 It's epic as fuck:
 
-![](http://assets.goddamnyouryan.com/blog/asia/huangshan-fairy-bridge.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/huangshan-fairy-bridge.jpg)
 
 And also hilariously there is a monkey eating of the trash right next to it:
 
-![](http://assets.goddamnyouryan.com/blog/asia/huangshan-monkey.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/huangshan-monkey.jpg)
 
 I had no idea they even had monkeys here so I was completely caught off guard. But I was laughing at the little guy (though he probably weighed 50 lbs).
 
@@ -52,7 +52,7 @@ The thing is, no one else is going down that way. Fuckit, I say.
 
 Very quickly I realize why. On the way up the steps were super nice and well maintained. These steps are carved directly into the mountainside and look like they've never been maintained. They're narrow, insanely steep, and slippery. Never have I ever so carefully descended a staircase before.
 
-![](http://assets.goddamnyouryan.com/blog/asia/huangshan-west-stairs.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/huangshan-west-stairs.jpg)
 
 Once I've been going down very carefully for about 20 minutes I see a monkey on the stairs in front of me. He looks nothing like the one I saw eating trash, he's lean and looks mean. His chest is all puffed out and he's slowly walking towards me and making a growling noise. I hear a noise on either side of the path and I notice there are monkeys there too. I look behind me and yep, another one. Fuck, I'm surrounded. I'm on these narrow as stairs and I'll admit it, I'm scared of this monkey attack that is looming. I've never seen a monkey in the wild in my life and haven't the faintest clue what to do. Not to mention I can very easily fall down these stairs or off the side (no guard rail of course) to my thousand foot doom.
 

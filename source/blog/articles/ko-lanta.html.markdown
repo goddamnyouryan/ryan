@@ -1,6 +1,6 @@
 ---
 title: Ko Lanta
-image: http://assets.goddamnyouryan.com/blog/asia/koh-lanta-sunset.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/koh-lanta-sunset.jpg
 date: 2014-02-23
 ---
 
@@ -24,7 +24,7 @@ The ride is long and uncomfortable but I finally make it around 9:30pm. I was ex
 
 I do and it goes without a hitch. I've failed to book a place before I get there. I had a place in mind, but the name of it was stored on my kindle, and of course I had forgotten it. So I randomly pick a place about halfway down the island and have a taxi driver take me there.
 
-![](http://assets.goddamnyouryan.com/blog/asia/koh-lanta-ocean.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/koh-lanta-ocean.jpg)
 
 Ko Lanta is much larger and much more developed than Koh Phayam. This is a good thing and a bad thing. It means there's more good food, convenience stores, actual ROADS but it means that there are seeds everywhere you turn and places to stay tend to be a lot more expensive. I stayed at that place for 2 nights then eventually moved to the place I originally planned on staying (it was called Blue Sky Resort) which was 1000x better. Half the price, bigger nicer bungalow and right on the beach.
 
@@ -34,8 +34,8 @@ The island is about 10 by 30km, so it's definitely not feasible the explore it o
 
 My second to last day I took a day trip to Ko Phi Phi, a neighboring island. Phi Phi (pronounced Pee Pee....hah) is the most beautiful place you can imagine, but much too overdeveloped. While I was there I met a pair of lovely Canadian couples while hiking up to the highest point on the island. I ended up spending most of the day with them and they graciously bought dinner for me when we got back to Lanta (and I met up with them the next night for dinner too).
 
-![](http://assets.goddamnyouryan.com/blog/asia/koh-phi-phi.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/koh-phi-phi-bay.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/koh-phi-phi.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/koh-phi-phi-bay.jpg)
 
 I spent a week on Lanta, overall it was amazing. A lot different from Phayam but much more beautiful and I can't say it was terrible to have power and internet and good food and many delicious restaurants.
 

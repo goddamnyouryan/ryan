@@ -1,6 +1,6 @@
 ---
 title: Hangzhou
-image: http://assets.goddamnyouryan.com/blog/asia/hangzhou-bridge.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/hangzhou-bridge.jpg
 light: true
 date: 2014-01-19
 ---
@@ -15,9 +15,9 @@ The next day I had a hilariously tame day compared to the day before it. I slept
 
 Hangzhou has a big lake smack in the middle of town and I spent all afternoon walking around it, which took a lot longer than I expected, but seeing as I had nothing else to do it doesn't matter at all. It was extremely pretty and serene.
 
-![](http://assets.goddamnyouryan.com/blog/asia/hangzhou-forest.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/hangzhou-lake.jpg)
-![](http://assets.goddamnyouryan.com/blog/asia/hangzhou-creek.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/hangzhou-forest.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/hangzhou-lake.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/hangzhou-creek.jpg)
 
 For dinner I went to a restaurant that Casey Caplowe recommended I check out (actually going to Huangshan and Hangzhou were both Casey's recommendations and they were both awesome) "The Grandmas". I had to wait for like 45 minutes but it was totally worth it because it was SUPER DELICIOUS. I ate tea roasted chicken and some sesame tofu and some mango-pear juice. And it was like 8 dollars.
 

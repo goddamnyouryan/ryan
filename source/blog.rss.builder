@@ -1,6 +1,6 @@
 xml.instruct! :xml, :version => '1.0'
 xml.rss :version => '2.0' do
-  site_url = 'http://www.goddamnyouryan.com/blog/'
+  site_url = 'https://www.goddamnyouryan.com/blog/'
   xml.channel do
     xml.title 'God Damn You Ryan Blog'
     xml.description 'Web Development and Travel'

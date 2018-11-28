@@ -1,6 +1,6 @@
 ---
 title: Bangkok
-image: http://assets.goddamnyouryan.com/blog/asia/bangkok-pavillions.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/bangkok-pavillions.jpg
 date: 2014-02-10
 ---
 
@@ -10,7 +10,7 @@ The whole time I stayed in a wonderful hostel called Shanti Lodge that cost me $
 
 I was only in Bangkok for 3 nights as I did very little cultural stuff while I was there (apart from taking a water bus to see Wat Pho, a big Buddhist temple)(side note: there's a big river in Bangkok and they have big boats that essentially act as busses. They are cheap and fun.)
 
-![](http://assets.goddamnyouryan.com/blog/asia/bangkok-buddha.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/bangkok-buddha.jpg)
 
 I found a store that would darn my jeans, so I spent half a day doing that (and the same the next day to pick them up). This is ironic of course because bangkok is by far the warmest place I've visited yet. It gets up to above 90 every day; much too hot for jeans.
 

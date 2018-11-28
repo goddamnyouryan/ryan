@@ -1,6 +1,6 @@
 ---
 title: Shanghai
-image: http://assets.goddamnyouryan.com/blog/asia/shanghai-bund.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/shanghai-bund.jpg
 light: true
 date: 2014-01-17
 ---
@@ -25,12 +25,12 @@ The next day I went back to LOHAUS and used up the last of the co-working hours 
 
 We got there and there were about 10 people having a nice sit down, which I've since learned is pretty typical for a chinese party. We are some food and drank some champagne. I spent most of the night talking to the owner of LOHAUS who is a nice Canadian ex-patriat but is also hilariously socially awkward. I gathered he wanted to be associated with Shanghai and not Canada, and as the only other white man present I was killing his vibe.
 
-![](http://assets.goddamnyouryan.com/blog/asia/shanghai-fireworks.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/shanghai-fireworks.jpg)
 
 We stayed till about 10 and then Richard and I decided to head for the Bund, where the main Shanghai New Years celebration was happening. Think Times Square x10. We got off the subway 2 stops early because it's impossible to navigate to the Bund otherwise. TOO MANY PEOPLE. It's literally the most people I have ever seen in my entire life. We spent the next hour and a half navigating through absolutely ridiculous crowds of people and made it to the Bund.
 
 On the side of the most famous building on the bund (some fancy looking European thing) they were doing a 4D projection (whatever that means). It looked awesome but we couldn't really see it as we were at an extreme angle. At midnight we saw a stellar fireworks show, then we headed home.
 
-![](http://assets.goddamnyouryan.com/blog/asia/shanghai-european-area.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/shanghai-european-area.jpg)
 
 The next day Richard and I went to E. Shaanxi road, which is a huge shopping and eating pedestrian street. Like an enormous 3rd street promenade. We went to Uniqlo so I could get some thermal underwear for Beijing and Harbin (more on that later), and ate some lunch. Then we went to Anfu Road which is sort of a hip neighborhood popular with young people. It's really beautiful, lots of new shops and restaurants in these old European style buildings. And very shishi, from what I understand. We had a beer, then I had to head to the train station to catch my overnight train to Huangshan.

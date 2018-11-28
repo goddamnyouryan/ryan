@@ -1,6 +1,6 @@
 ---
 title: Seoul
-image: http://assets.goddamnyouryan.com/blog/asia/korea-temple.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/korea-temple.jpg
 light: true
 date: 2014-01-16
 ---
@@ -11,7 +11,7 @@ The flight took about 14 hours and afterwards we were easily whisked through cus
 
 We hadn't eaten in a very long time, and it was about 11pm on a Wednesday night but we ventured back out in search of food. We found a place with no English on the sign but it looked nice inside and there were other people. It turns out there is also no English on the menu nor did our server speak English so we ordered by pointing at what another table of women had ordered. We ended up with scallion pancakes, some lightly fried veggies, and soju.  Maura maintains this was the best meal we ate in Korea and she might be right.
 
-![](http://assets.goddamnyouryan.com/blog/asia/korean-restaurant.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/korean-restaurant.jpg)
 
 We were there for a week and we did lots of things but I won't go into great detail about most of them (because I can't remember mostly) but here are some highlights:
 
@@ -23,6 +23,6 @@ We were there for a week and we did lots of things but I won't go into great det
 *   **Spas:** We went to two different Korean spas, the first being better than the second. If you've never been this is how it works: you show up, take off your shoes, and pay between 8-15 bucks. Then the men go one way and the women another. You're lead into a locker room where you get completely naked. If you've never been a tattooed white boy surrounded by hundreds of old naked Korean men I highly recommend it. Your corralled into a bath area where you have to give yourself a serious scrub down in a shower. Then you can hang out in some wonderful hot tubs, making sure to scrub yourself down between each one. There's also lots of different saunas. After about an hour of this you can put on a little spa outfit and go to the common area which usually consisted of me taking a nap on the ground. Considering I had trouble getting our shower water to get hot in our apartment this was the main way I got clean. And man is it relaxing.
 *   **Heeyoung:** I first met Heeyoung when I was living in New York, she is dating my friend Adam. She is Korean and had spent the last 3 months in Korea, doing work. She's a singer-songwriter on an indie label, we went and see her do a short show in my favorite neighborhood in Seoul. We also had her take us to several different restaurants while we were there, ate some delicious food and drank some Korean rice wine, which is more like milk+beer, you drink it out of a bowl, and it's super delicious.
 
-![](http://assets.goddamnyouryan.com/blog/asia/korea-museum.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/korea-museum.jpg)
 
 We did lots of other stuff too while we were there, we basically saw all the desirable neighborhoods and checked everything off the extensive list Maura had made for us. Korea is cool, and very nice, if not a bit too cold in December.

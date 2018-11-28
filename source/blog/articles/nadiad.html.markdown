@@ -1,6 +1,6 @@
 ---
 title: Nadiad
-image: http://assets.goddamnyouryan.com/blog/asia/nadiad-sunset.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/nadiad-sunset.jpg
 date: 2014-01-22
 ---
 
@@ -14,7 +14,7 @@ I paid about $20 for an hour and a half long taxi ride to Esha's house in a town
 
 Traffic "laws" are a joke, the only general rule anyone seems to follow is staying vaguely to the left, it's a free for all besides that. We were passing cars left and right, oftentimes in the opposite lane with huge trucks barreling towards us at breakneck speeds (of course the taxi didn't have any seatbelts). We got stuck in a traffic jam for about 20 minutes because a herd of cows wandered into the road (I later learned that cows in India are like stray cats, they just wander the streets all over the place, mostly eating garbage).
 
-![](http://assets.goddamnyouryan.com/blog/asia/nadiad-cow.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/nadiad-cow.jpg)
 
 The streets in India all look like they are about 75 years old and have never been repaired. Many buildings are half standing piles of rubble. There is garbage EVERYWHERE. The closest thing they have to trash pickup is the cows, or lighting the trash on fire.
 
@@ -28,7 +28,7 @@ The next day was the first of a two day Kite festival which is quite possibly th
 
 Once it gets dark people start lighting paper lanterns. These are the ones with little fires underneath. At a certain point there were thousands of these lanterns in the air at once, it's a site to behold. People also launch lots of huge, and if it was the US, extremely illegal fireworks. It's awesome.
 
-![](http://assets.goddamnyouryan.com/blog/asia/nadiad-fireworks.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/nadiad-fireworks.jpg)
 
 After a bulk of the fireworks died down we went to Esha's parents friends house where the guest rule kicked in and we were fed until we were stuffed. It was here that we first experienced the "middle aged Indian man problem". It wasn't annoying yet, though eventually it became so: middle aged Indian men love to order you around, they absolutely love it. They'll shovel food in front of you even if you specifically tell them you don't want it. None of them speak much English but they use every bit of it to harass you and tell you inane things or to order you to eat, or sit. If you don't comply they'll pout and whine. Eventually we just learned to ignore it, but I must say, as a fiercely independent American adult male, it infuriates me to no end to be constantly told what to do, usually with ridiculously simple instructions. Yes I know that you eat curry. Yes I know how a chair works. Fuck you old Indian men. (I should reiterate, Esha's immediate family and friends were great and not at all like this, they were all the best).
 
@@ -38,7 +38,7 @@ The day after that I vomited once more but from then on out I felt great. (Or at
 
 The following day we got up early to go to a hair cutting ceremony for Esha's families friend son Neev. In Gujarat it is tradition to not cut a boys hair until he is 2 years old. Then on a certain day you take him to a holy lake town (we named the lake "garbage lake") to ritually shave his head. Neev is awesome and hilarious and cute and he was crying the whole time, it was heartbreaking. They actually shave his head with a straight razor which was pretty surprising. The whole time we were there horribly inept pickpockets were eyeing us. After, we went back to Esha's house and the girls got their hands and arms and legs and feet hennaed. They probably also did some shopping for wedding clothes and I totally forget what us boys did.
 
-![](http://assets.goddamnyouryan.com/blog/asia/nadiad-lake.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/nadiad-lake.jpg)
 
 The next three days were Esha's wedding. Day 1 was the "pre wedding", day 2 was the actual wedding and day 3 was the reception.
 
@@ -50,7 +50,7 @@ Indian culture is super sexually repressed, to an annoying degree. Opposite gend
 
 The next day was the actual wedding, which was held at a lovely outdoor space. There's no ceremony per se and most people spend the day wandering around and eating, occasionally coming to a raised gazebo area where the bride and groom are participating in thousands of endless and boring Hindu rituals. It's totally fine to just wander up on to the platform and fart around right in front of them. Afterwards they spend about 4 hours taking pictures. The groom got brought in on a horse drawn carriage which was pretty cool, though it was hilariously covered in multicolored LEDs.
 
-![](http://assets.goddamnyouryan.com/blog/asia/nadiad-eshas-wedding.jpg)
+![](https://assets.goddamnyouryan.com/blog/asia/nadiad-eshas-wedding.jpg)
 
 The reception is out on by the grooms family the next day. We were stuffed full of food all day, like usual, by this time we were super sick of eating basically the same Gujarati food at every single meal, the reception at least had Popsicles. We went home early as we discovered that Allison's flight was actually at 4:30am and not at 12:30 the next day as expected. I stayed up with her and took her on a taxi to the airport where I was super bummed to bid her adieu. (Though I was super jealous she got to go back to the US and eat delicious, non-Gujarati food).
 

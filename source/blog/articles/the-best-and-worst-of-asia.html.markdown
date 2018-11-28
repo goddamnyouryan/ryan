@@ -1,6 +1,6 @@
 ---
 title: The Best and Worst of Asia
-image: http://assets.goddamnyouryan.com/blog/asia/sapa-sky.jpg
+image: https://assets.goddamnyouryan.com/blog/asia/sapa-sky.jpg
 light: true
 date: 2014-06-07
 ---
