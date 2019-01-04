@@ -3,12 +3,12 @@ $fonts: 'fontello';
 @each $font in $fonts {
   @font-face {
     font-family: $font;
-    src: url('/fonts/#{$font}.eot');
-    src: url('/fonts/#{$font}.eot#iefix') format('embedded-opentype'),
-         url('/fonts/#{$font}.woff') format('woff'),
-         url('/fonts/#{$font}.woff2') format('woff2'),
-         url('/fonts/#{$font}.ttf2') format('truetype'),
-         url('/fonts/#{$font}.svg##{$font}') format('svg');
+    src: font-url('#{$font}.eot');
+    src: font-url('#{$font}.eot#iefix') format('embedded-opentype'),
+         font-url('#{$font}.woff') format('woff'),
+         font-url('#{$font}.woff2') format('woff2'),
+         font-url('#{$font}.ttf2') format('truetype'),
+         font-url('#{$font}.svg##{$font}') format('svg');
     font-weight: normal;
     font-style: normal;
   }
