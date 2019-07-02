@@ -59,7 +59,7 @@ activate :blog do |blog|
 
   # Enable pagination
   blog.paginate = true
-  blog.per_page = 20
+  blog.per_page = 30
   # blog.page_link = "page/{num}"
 end
 page '/blog.xml', layout: false
