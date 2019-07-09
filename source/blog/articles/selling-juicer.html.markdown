@@ -188,11 +188,11 @@ They ended up coming up with a compromise that worked out pretty well. We ended 
 
 After the terms of the deal were negotiated on, Tim and Ulrich sent over a Letter of Intent, or LOI. Basically this says that they get 30 days where we are an open book: They can look at all of our customers, code or financials. During this time we also agreed to an exclusivity period, where we would stop talking to other potential buyers.
 
-As you might expect, those 30 days of due diligence were pretty stressful. I can remember at least two 6-hour meetings, one of which was going a codebase that I alone had worked on for almost 4 years, I’d imagine it’s a bit like getting your first prostate exam. But I also distinctly remember a sensation of “Hurry up and wait”. The potential buyers would have some new question and I would rush to get them the answer as soon as possible, then go days without hearing anything.
+As you might expect, those 30 days of due diligence were pretty stressful. I can remember at least two 6-hour meetings, one of which was going through a codebase that I alone had worked on for almost 4 years, I’d imagine it’s a bit like getting your first prostate exam. But I also distinctly remember a sensation of “Hurry up and wait”. The potential buyers would have some new question and I would rush to get them the answer as soon as possible, then go days without hearing anything.
 
 **Sold!**
 
-Then, as soon as it had started, it was over. We had the offer in our hands. It’s hard to describe exactly what it feels like. On one had, it’s amazing. On the other, it’s totally anti-climatic because you’ve been thinking constantly about this happening so the actual moment can be a bit overwhelming. Or maybe you’re like me and you’ve done freelancing long enough that you know a project isn’t officially over until the money has hit your bank account.
+Then, as soon as it had started, it was over. We had the offer in our hands. It’s hard to describe exactly what it feels like. On one had, it’s amazing. On the other, it’s totally anticlimatic because you’ve been thinking constantly about this happening so the actual moment can be a bit overwhelming. Or maybe you’re like me and you’ve done freelancing long enough that you know a project isn’t officially over until the money has hit your bank account.
 
 Of course the money wasn’t in my hands, it was in escrow for about a week. But the hard part was over. Then it was in my bank account.
 
