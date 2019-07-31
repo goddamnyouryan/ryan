@@ -42,7 +42,7 @@ So when I got back to the US after a few weeks in Brazil, another production com
 
 The next morning (or another morning relatively soon thereafter) I woke up at like 5am and couldn’t sleep (probably still jet lagged) and I had the idea for a logo that was an [orange](https://assets.goddamnyouryan.com/blog/development/old.png). I really liked that imagery for some reason, so I just had to come up with a name that fit it. A few hours later I had it.
 
-I liked Juice ras a name because it was simple, an already existing word, could be vaguely interpreted as we were “squeezing the juice out of social media posts” and the domain juicer.io was available.
+I liked Juicer as a name because it was simple, an already existing word, could be vaguely interpreted as we were “squeezing the juice out of social media posts” and the domain juicer.io was available.
 
 I actually find it necessary to name a product before I start working on it. This is for a few reasons:
 
