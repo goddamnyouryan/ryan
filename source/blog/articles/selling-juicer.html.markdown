@@ -5,7 +5,7 @@ date: 2019-07-02
 
 The first commit for [Juicer](https://www.juicer.io) was on August 14th 2014, and we closed on selling it to [SaaS.group](https://saas.group) on June 29th 2018. So me and my partner [Amit](http://amitpatel.me) started, grew, ran and sold it in just under 4 years.
 
-A few months before we decided to sell I read this amazing article by [Tyler Tringas](https://tylertringas.com/selling-my-bootstrapped-saas-business/) that described the process in such great detail that I’m sure at the very least it had a subconscious effect on my deciding to sell. I wanted to give back in a similar way, so about 6 months after from the completion of the sale I wanted to write about the entire lifespan of Juicer.
+A few months before we decided to sell I read this amazing article by [Tyler Tringas](https://tylertringas.com/selling-my-bootstrapped-saas-business/) that described the process in such great detail that I’m sure at the very least it had a subconscious effect on my deciding to sell. I wanted to give back in a similar way, so almost exactly a year after the completion of the sale I wanted to write about the entire lifespan of Juicer.
 
 **The Motivation**
 
