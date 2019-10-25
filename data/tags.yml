@@ -3,13 +3,13 @@ rule:
   - HTML
   - CSS
   - Javascript
+  - React
+  - Node
   - Heroku
   - AWS
   - Scaling
 
 okay:
-  - React
-  - Node
   - Go
   - Python
   - C
