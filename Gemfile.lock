@@ -304,7 +304,7 @@ GEM
       activesupport (>= 3.1)
     parallel (1.12.1)
     progress (3.1.0)
-    rack (1.6.9)
+    rack (1.6.12)
     rack-livereload (0.3.16)
       rack
     rack-test (0.6.3)
